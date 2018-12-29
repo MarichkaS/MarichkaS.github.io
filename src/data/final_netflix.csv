@@ -1,4 +1,4 @@
-tconst,parentTconst,seasonNumber,episodeNumber,TV-show,primaryTitle_y,startYear,endYear,channel,averageRating,numVotes
+tconst,parentTconst,Season Number,Episode Number,TV-show,Episode Title,Season start year,endYear,channel,IMDB Rating,Number of votes,episodeID
 tt3957774,tt3398228,1,1,BoJack Horseman,"BoJack Horseman: The BoJack Horseman Story, Chapter One",2014,\N,Netflix,7.1,2215
 tt3978916,tt3398228,1,5,BoJack Horseman,"Live Fast, Diane Nguyen",2014,\N,Netflix,7.4,1545
 tt3978918,tt3398228,1,6,BoJack Horseman,Our A-Story Is a 'D' Story,2014,\N,Netflix,7.9,1579

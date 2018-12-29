@@ -15,6 +15,8 @@ document.getElementById('visHBO').style.display = "none";
 document.getElementById('visNetflix').style.display = "none";
 document.getElementById('visCW').style.display = "none";
 document.getElementById('visFox').style.display = "none";
+document.getElementById('visAMC').style.display = "none";
+
 document.getElementById('returnButtons').style.opacity = 0;
 
 document.getElementById("hboButton").addEventListener('click', function(event){
@@ -64,8 +66,9 @@ document.getElementById("amcButton").addEventListener('click', (event) => {
     console.log('VIEW AMC');
     document.getElementById('startButtons').style.opacity = 0;
     document.getElementById('mainHeader').style.display = "none";
+    document.getElementById('visAMC').style.display = "flex";
 
     document.getElementById('returnButtons').style.opacity = 1;  // return to previous page
 
-    // returnToChannels('visHBO')
+    returnToChannels('visAMC')
 });

@@ -89,6 +89,15 @@
        vegaEmbed('#visFox', specFox, optsFox);
    </script>
 
+   <div id="visAMC" style="position: fixed; left:20%; top: 30%; margin-top: -10%; margin-left: -200px "></div>
+
+   <script type="text/javascript">
+
+       const specAmc = "src/AMC.json"
+       var optsAmc = {"actions": {export: false, source: false, editor: false}};
+       vegaEmbed('#visAMC', specAmc, optsAmc);
+   </script>
+
 
 
    <script src="dist/bundle.js"></script>

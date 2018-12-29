@@ -1,4 +1,4 @@
-tconst,parentTconst,seasonNumber,episodeNumber,TV-show,primaryTitle_y,startYear,endYear,channel,averageRating,numVotes,episodeID
+tconst,parentTconst,Season Number,Episode Number,TV-show,Episode Title,Season start year,endYear,channel,IMDB Rating,Number of votes,episodeID
 tt3216414,tt3749900,1,1,Gotham,Pilot,2014,\N,Fox,8.1,8918,1
 tt3975220,tt3749900,1,4,Gotham,Arkham,2014,\N,Fox,8.2,3903,4
 tt3993356,tt3749900,1,3,Gotham,The Balloonman,2014,\N,Fox,7.9,4168,3
