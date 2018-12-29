@@ -1,0 +1,798 @@
+tconst,parentTconst,seasonNumber,episodeNumber,TV-show,primaryTitle_y,startYear,endYear,channel,averageRating,numVotes,episodeID
+tt2310910,tt2193021,1,2,Arrow,Honor Thy Father,2012,\N,CW,8.3,5004,2
+tt2310914,tt2193021,1,3,Arrow,Lone Gunmen,2012,\N,CW,8.5,4669,3
+tt2319602,tt2193021,1,4,Arrow,An Innocent Man,2012,\N,CW,8.5,4406,4
+tt2338426,tt2193021,1,5,Arrow,Damaged,2012,\N,CW,8.7,4337,5
+tt2340185,tt2193021,1,1,Arrow,Pilot,2012,\N,CW,8.6,6622,1
+tt2377368,tt2193021,1,6,Arrow,Legacies,2012,\N,CW,8.1,4112,6
+tt2395358,tt2193021,1,7,Arrow,Muse of Fire,2012,\N,CW,8.4,4036,7
+tt2423266,tt2193021,1,8,Arrow,Vendetta,2012,\N,CW,8.3,3925,8
+tt2448164,tt2193021,1,9,Arrow,Year's End,2012,\N,CW,8.5,3725,9
+tt2467064,tt2193021,1,10,Arrow,Burned,2013,\N,CW,8.0,3835,10
+tt2496078,tt2193021,1,11,Arrow,Trust But Verify,2013,\N,CW,8.3,3660,11
+tt2519404,tt2193021,1,12,Arrow,Vertigo,2013,\N,CW,8.5,3695,12
+tt2527342,tt2193021,1,13,Arrow,Betrayal,2013,\N,CW,8.7,3791,13
+tt2561472,tt2193021,1,14,Arrow,The Odyssey,2013,\N,CW,8.9,4033,14
+tt2605292,tt2193021,1,15,Arrow,Dodger,2013,\N,CW,8.2,3612,15
+tt2633630,tt2193021,1,16,Arrow,Dead to Rights,2013,\N,CW,8.8,3771,16
+tt2654070,tt2193021,1,17,Arrow,The Huntress Returns,2013,\N,CW,8.3,3625,17
+tt2698256,tt2193021,1,18,Arrow,Salvation,2013,\N,CW,8.5,3512,18
+tt2702698,tt2193021,2,1,Arrow,City of Heroes,2013,\N,CW,8.8,4910,24
+tt2712930,tt2193021,1,19,Arrow,Unfinished Business,2013,\N,CW,8.4,3451,19
+tt2761428,tt2193021,1,21,Arrow,The Undertaking,2013,\N,CW,8.9,3751,21
+tt2761432,tt2193021,1,20,Arrow,Home Invasion,2013,\N,CW,8.6,3508,20
+tt2761434,tt2193021,1,22,Arrow,Darkness on the Edge of Town,2013,\N,CW,9.1,4248,22
+tt2761440,tt2193021,1,23,Arrow,Sacrifice,2013,\N,CW,9.5,6467,23
+tt3077106,tt2193021,2,2,Arrow,Identity,2013,\N,CW,8.6,3893,25
+tt3126166,tt2193021,2,3,Arrow,Broken Dolls,2013,\N,CW,8.8,4011,26
+tt3126168,tt2193021,2,4,Arrow,Crucible,2013,\N,CW,8.8,3890,27
+tt3128398,tt2193021,2,5,Arrow,League of Assassins,2013,\N,CW,8.9,3917,28
+tt3213782,tt2193021,2,6,Arrow,Keep Your Enemies Closer,2013,\N,CW,8.6,3611,29
+tt3213864,tt2193021,2,7,Arrow,State v. Queen,2013,\N,CW,8.7,3730,30
+tt3229412,tt2193021,2,8,Arrow,The Scientist,2013,\N,CW,9.1,4362,31
+tt3229414,tt2193021,2,9,Arrow,Three Ghosts,2013,\N,CW,9.3,5131,32
+tt3229416,tt2193021,2,10,Arrow,Blast Radius,2014,\N,CW,8.5,3424,33
+tt3263824,tt2193021,2,12,Arrow,Tremors,2014,\N,CW,8.8,3477,35
+tt3263826,tt2193021,2,11,Arrow,Blind Spot,2014,\N,CW,8.7,3441,34
+tt3263832,tt2193021,2,13,Arrow,Heir to the Demon,2014,\N,CW,8.8,3748,36
+tt3337656,tt2193021,2,14,Arrow,Time of Death,2014,\N,CW,8.9,3756,37
+tt3337658,tt2193021,2,15,Arrow,The Promise,2014,\N,CW,9.2,4379,38
+tt3337660,tt2193021,2,16,Arrow,Suicide Squad,2014,\N,CW,8.7,3572,39
+tt3337662,tt2193021,2,17,Arrow,Birds of Prey,2014,\N,CW,8.4,3342,40
+tt3337666,tt2193021,2,19,Arrow,The Man Under the Hood,2014,\N,CW,9.1,3885,42
+tt3337668,tt2193021,2,20,Arrow,Seeing Red,2014,\N,CW,9.4,5524,43
+tt3337670,tt2193021,2,21,Arrow,City of Blood,2014,\N,CW,9.1,4139,44
+tt3337672,tt2193021,2,22,Arrow,Streets of Fire,2014,\N,CW,9.3,4444,45
+tt3337674,tt2193021,2,23,Arrow,Unthinkable,2014,\N,CW,9.5,6358,46
+tt3532626,tt2193021,3,1,Arrow,The Calm,2014,\N,CW,9.0,5231,47
+tt3535114,tt2193021,2,18,Arrow,Deathstroke,2014,\N,CW,9.3,4573,41
+tt3856758,tt2193021,3,2,Arrow,Sara,2014,\N,CW,8.6,3739,48
+tt3879318,tt2193021,3,3,Arrow,Corto Maltese,2014,\N,CW,8.4,3431,49
+tt3919146,tt2193021,3,4,Arrow,The Magician,2014,\N,CW,8.6,3482,50
+tt3956512,tt2193021,3,5,Arrow,The Secret Origin of Felicity Smoak,2014,\N,CW,8.6,3867,51
+tt4006548,tt2193021,3,9,Arrow,The Climb,2014,\N,CW,9.7,10537,55
+tt4006570,tt2193021,3,11,Arrow,Midnight City,2015,\N,CW,8.2,3224,57
+tt4006572,tt2193021,3,13,Arrow,Canaries,2015,\N,CW,8.5,3287,59
+tt4006574,tt2193021,3,12,Arrow,Uprising,2015,\N,CW,8.6,3461,58
+tt4006576,tt2193021,3,7,Arrow,Draw Back Your Bow,2014,\N,CW,8.2,3403,53
+tt4006578,tt2193021,3,8,Arrow,The Brave and the Bold,2014,\N,CW,9.3,5200,54
+tt4006582,tt2193021,3,10,Arrow,Left Behind,2015,\N,CW,8.6,3731,56
+tt4006584,tt2193021,3,20,Arrow,The Fallen,2015,\N,CW,8.8,3878,66
+tt4006586,tt2193021,3,6,Arrow,Guilty,2014,\N,CW,8.3,3257,52
+tt4006588,tt2193021,3,15,Arrow,Nanda Parbat,2015,\N,CW,8.9,4086,61
+tt4006590,tt2193021,3,22,Arrow,This Is Your Sword,2015,\N,CW,8.9,3669,68
+tt4006594,tt2193021,3,16,Arrow,The Offer,2015,\N,CW,8.5,3248,62
+tt4006596,tt2193021,3,18,Arrow,Public Enemy,2015,\N,CW,9.0,3675,64
+tt4006598,tt2193021,3,21,Arrow,Al Sah-Him,2015,\N,CW,8.6,3386,67
+tt4006600,tt2193021,3,14,Arrow,The Return,2015,\N,CW,8.5,3330,60
+tt4006602,tt2193021,3,19,Arrow,Broken Arrow,2015,\N,CW,9.1,4109,65
+tt4006604,tt2193021,3,23,Arrow,My Name Is Oliver Queen,2015,\N,CW,8.3,4576,69
+tt4006606,tt2193021,3,17,Arrow,Suicidal Tendencies,2015,\N,CW,8.6,3179,63
+tt4345922,tt2193021,4,1,Arrow,Green Arrow,2015,\N,CW,8.5,4534,70
+tt4765782,tt2193021,4,2,Arrow,The Candidate,2015,\N,CW,8.2,3040,71
+tt4846212,tt2193021,4,3,Arrow,Restoration,2015,\N,CW,8.2,2916,72
+tt4854000,tt2193021,4,4,Arrow,Beyond Redemption,2015,\N,CW,8.4,2853,73
+tt4859064,tt2193021,4,5,Arrow,Haunted,2015,\N,CW,9.0,3929,74
+tt4859296,tt2193021,4,7,Arrow,Brotherhood,2015,\N,CW,8.2,2663,76
+tt4859298,tt2193021,4,6,Arrow,Lost Souls,2015,\N,CW,8.2,2866,75
+tt4859300,tt2193021,4,8,Arrow,Legends of Yesterday,2015,\N,CW,9.1,3929,77
+tt4859302,tt2193021,4,9,Arrow,Dark Waters,2015,\N,CW,8.9,3390,78
+tt4862532,tt2193021,4,10,Arrow,Blood Debts,2016,\N,CW,8.1,2660,79
+tt4862534,tt2193021,4,11,Arrow,A.W.O.L.,2016,\N,CW,8.0,2537,80
+tt4862536,tt2193021,4,13,Arrow,Sins of the Father,2016,\N,CW,8.4,2718,82
+tt4862538,tt2193021,4,12,Arrow,Unchained,2016,\N,CW,8.3,2555,81
+tt4862540,tt2193021,4,15,Arrow,Taken,2016,\N,CW,8.3,2801,84
+tt4862542,tt2193021,4,14,Arrow,Code of Silence,2016,\N,CW,7.9,2483,83
+tt4862544,tt2193021,4,16,Arrow,Broken Hearts,2016,\N,CW,6.3,3465,85
+tt4862546,tt2193021,4,17,Arrow,Beacon of Hope,2016,\N,CW,6.8,2962,86
+tt4862548,tt2193021,4,20,Arrow,Genesis,2016,\N,CW,7.5,2814,89
+tt4862550,tt2193021,4,19,Arrow,Canary Cry,2016,\N,CW,6.8,3182,88
+tt4862552,tt2193021,4,18,Arrow,Eleven-Fifty-Nine,2016,\N,CW,7.3,4043,87
+tt4862554,tt2193021,4,23,Arrow,Schism,2016,\N,CW,5.7,4719,92
+tt4862556,tt2193021,4,21,Arrow,Monument Point,2016,\N,CW,7.2,2623,90
+tt4862558,tt2193021,4,22,Arrow,Lost in the Flood,2016,\N,CW,7.2,2608,91
+tt5540390,tt2193021,5,1,Arrow,Legacy,2016,\N,CW,8.5,3174,93
+tt5584142,tt2193021,5,2,Arrow,The Recruits,2016,\N,CW,8.4,2534,94
+tt5584144,tt2193021,5,3,Arrow,A Matter of Trust,2016,\N,CW,8.4,2327,95
+tt5584146,tt2193021,5,4,Arrow,Penance,2016,\N,CW,8.3,2195,96
+tt5584148,tt2193021,5,5,Arrow,Human Target,2016,\N,CW,8.8,2413,97
+tt5584150,tt2193021,5,6,Arrow,So It Begins,2016,\N,CW,8.5,2158,98
+tt5584152,tt2193021,5,7,Arrow,Vigilante,2016,\N,CW,8.5,2115,99
+tt5584154,tt2193021,5,8,Arrow,Invasion!,2016,\N,CW,9.2,3828,100
+tt5584158,tt2193021,5,9,Arrow,What We Leave Behind,2016,\N,CW,9.3,3167,101
+tt5584160,tt2193021,5,10,Arrow,Who Are You?,2017,\N,CW,8.0,2236,102
+tt5584162,tt2193021,5,11,Arrow,Second Chances,2017,\N,CW,8.3,1988,103
+tt5584166,tt2193021,5,23,Arrow,Lian Yu,2017,\N,CW,9.7,6159,115
+tt5607494,tt2193021,5,12,Arrow,Bratva,2017,\N,CW,8.3,1887,104
+tt5607500,tt2193021,5,13,Arrow,Spectre of the Gun,2017,\N,CW,7.6,2232,105
+tt5607504,tt2193021,5,14,Arrow,The Sin-Eater,2017,\N,CW,8.0,1845,106
+tt5607508,tt2193021,5,15,Arrow,Fighting Fire with Fire,2017,\N,CW,8.7,2051,107
+tt5607510,tt2193021,5,16,Arrow,Checkmate,2017,\N,CW,9.1,2457,108
+tt5607512,tt2193021,5,17,Arrow,Kapiushon,2017,\N,CW,9.3,3365,109
+tt5607516,tt2193021,5,18,Arrow,Disbanded,2017,\N,CW,8.6,2089,110
+tt5607518,tt2193021,5,19,Arrow,Dangerous Liaisons,2017,\N,CW,8.1,1882,111
+tt5607522,tt2193021,5,20,Arrow,Underneath,2017,\N,CW,7.8,2470,112
+tt5607524,tt2193021,5,21,Arrow,Honor Thy Fathers,2017,\N,CW,8.4,1796,113
+tt5607526,tt2193021,5,22,Arrow,Missing,2017,\N,CW,9.2,2444,114
+tt6403458,tt2193021,6,1,Arrow,Fallout,2017,\N,CW,8.1,2170,116
+tt6493654,tt2193021,6,2,Arrow,Tribute,2017,\N,CW,8.2,1733,117
+tt6493656,tt2193021,6,3,Arrow,Next of Kin,2017,\N,CW,8.1,1634,118
+tt6493658,tt2193021,6,4,Arrow,Reversal,2017,\N,CW,7.6,1974,119
+tt6493662,tt2193021,6,5,Arrow,Deathstroke Returns,2017,\N,CW,8.9,1932,120
+tt6493664,tt2193021,6,6,Arrow,Promises Kept,2017,\N,CW,8.6,1621,121
+tt6493666,tt2193021,6,7,Arrow,Thanksgiving,2017,\N,CW,8.1,1457,122
+tt6493668,tt2193021,6,8,Arrow,"Crisis on Earth-X, Part 2",2017,\N,CW,8.8,2643,123
+tt6493670,tt2193021,6,9,Arrow,Irreconcilable Differences,2017,\N,CW,7.5,1706,124
+tt6493672,tt2193021,6,10,Arrow,Divided,2018,\N,CW,7.7,1385,125
+tt6493676,tt2193021,6,11,Arrow,We Fall,2018,\N,CW,8.0,1332,126
+tt6493678,tt2193021,6,12,Arrow,All for Nothing,2018,\N,CW,8.2,1282,127
+tt6493680,tt2193021,6,13,Arrow,The Devil's Greatest Trick,2018,\N,CW,8.5,1402,128
+tt6493682,tt2193021,6,14,Arrow,Collision Course,2018,\N,CW,7.6,1356,129
+tt6493686,tt2193021,6,16,Arrow,The Thanatos Guild,2018,\N,CW,8.2,1295,131
+tt6493688,tt2193021,6,15,Arrow,Doppelgänger,2018,\N,CW,8.4,1312,130
+tt6493690,tt2193021,6,18,Arrow,Fundamentals,2018,\N,CW,8.9,1645,133
+tt6493692,tt2193021,6,17,Arrow,Brothers in Arms,2018,\N,CW,8.1,1344,132
+tt6493694,tt2193021,6,19,Arrow,The Dragon,2018,\N,CW,8.2,1493,134
+tt6493696,tt2193021,6,20,Arrow,Shifting Allegiances,2018,\N,CW,8.3,1247,135
+tt6493698,tt2193021,6,21,Arrow,Docket No. 11-19-41-73,2018,\N,CW,9.0,1473,136
+tt6493700,tt2193021,6,22,Arrow,The Ties That Bind,2018,\N,CW,8.7,1364,137
+tt6493702,tt2193021,6,23,Arrow,Life Sentence,2018,\N,CW,8.9,1638,138
+tt7224676,tt2193021,7,1,Arrow,Inmate 4587,2018,\N,CW,9.3,2134,139
+tt7508606,tt2193021,7,7,Arrow,The Slabside Redemption,2018,\N,CW,9.6,1875,145
+tt7508614,tt2193021,7,3,Arrow,Crossing Lines,2018,\N,CW,8.6,1235,141
+tt7508628,tt2193021,7,6,Arrow,Due Process,2018,\N,CW,8.7,1072,144
+tt7508702,tt2193021,7,9,Arrow,"Elseworlds, Part 2",2018,\N,CW,9.3,1375,147
+tt7508706,tt2193021,7,2,Arrow,The Longbow Hunters,2018,\N,CW,8.3,1325,140
+tt7508730,tt2193021,7,4,Arrow,Level Two,2018,\N,CW,8.5,1143,142
+tt7508732,tt2193021,7,8,Arrow,Unmasked,2018,\N,CW,8.8,992,146
+tt7508746,tt2193021,7,5,Arrow,The Demon,2018,\N,CW,8.9,1190,143
+tt5728914,tt5420376,1,1,Riverdale,Chapter One: The River's Edge,2016,\N,CW,7.8,2445,1
+tt5728918,tt5420376,1,2,Riverdale,Chapter Two: A Touch of Evil,2017,\N,CW,8.0,1947,2
+tt5728922,tt5420376,1,3,Riverdale,Chapter Three: Body Double,2017,\N,CW,8.1,1837,3
+tt5728924,tt5420376,1,4,Riverdale,Chapter Four: The Last Picture Show,2017,\N,CW,8.2,1725,4
+tt5728926,tt5420376,1,5,Riverdale,Chapter Five: Heart of Darkness,2017,\N,CW,8.1,1538,5
+tt5728928,tt5420376,1,6,Riverdale,"Chapter Six: Faster, Pussycats! Kill! Kill!",2017,\N,CW,8.1,1501,6
+tt5728930,tt5420376,1,7,Riverdale,Chapter Seven: In a Lonely Place,2017,\N,CW,8.1,1397,7
+tt5728932,tt5420376,1,8,Riverdale,Chapter Eight: The Outsiders,2017,\N,CW,7.9,1311,8
+tt5728934,tt5420376,1,9,Riverdale,Chapter Nine: La Grande Illusion,2017,\N,CW,7.8,1293,9
+tt5728936,tt5420376,1,10,Riverdale,Chapter Ten: The Lost Weekend,2017,\N,CW,8.3,1358,10
+tt5728940,tt5420376,1,11,Riverdale,Chapter Eleven: To Riverdale and Back Again,2017,\N,CW,8.3,1258,11
+tt5728942,tt5420376,1,12,Riverdale,Chapter Twelve: Anatomy of a Murder,2017,\N,CW,9.0,1672,12
+tt5728946,tt5420376,1,13,Riverdale,Chapter Thirteen: The Sweet Hereafter,2017,\N,CW,8.8,1533,13
+tt6618896,tt5420376,2,1,Riverdale,Chapter Fourteen: A Kiss Before Dying,2017,\N,CW,8.3,1418,14
+tt6746362,tt5420376,2,2,Riverdale,Chapter Fifteen: Nighthawks,2017,\N,CW,8.2,1094,15
+tt6746366,tt5420376,2,3,Riverdale,Chapter Sixteen: The Watcher in the Woods,2017,\N,CW,8.1,1023,16
+tt6746372,tt5420376,2,4,Riverdale,Chapter Seventeen: The Town That Dreaded Sundown,2017,\N,CW,8.2,994,17
+tt6746380,tt5420376,2,5,Riverdale,Chapter Eighteen: When a Stranger Calls,2017,\N,CW,8.7,1207,18
+tt6746392,tt5420376,2,6,Riverdale,Chapter Nineteen: Death Proof,2017,\N,CW,8.4,989,19
+tt6746402,tt5420376,2,7,Riverdale,Chapter Twenty: Tales from the Darkside,2017,\N,CW,8.3,1000,20
+tt6746406,tt5420376,2,8,Riverdale,Chapter Twenty-One: House of the Devil,2017,\N,CW,8.2,993,21
+tt6746420,tt5420376,2,9,Riverdale,"Chapter Twenty-Two: Silent Night, Deadly Night",2017,\N,CW,8.5,977,22
+tt6746428,tt5420376,2,10,Riverdale,Chapter Twenty-Three: The Blackboard Jungle,2018,\N,CW,8.0,867,23
+tt6746434,tt5420376,2,11,Riverdale,Chapter Twenty-Four: The Wrestler,2018,\N,CW,7.6,864,24
+tt6746444,tt5420376,2,12,Riverdale,Chapter Twenty-Five: The Wicked and the Divine,2018,\N,CW,8.2,858,25
+tt6746458,tt5420376,2,13,Riverdale,Chapter Twenty-Six: The Tell-Tale Heart,2018,\N,CW,8.5,860,26
+tt7124262,tt5420376,2,14,Riverdale,Chapter Twenty-Seven: The Hills Have Eyes,2018,\N,CW,8.1,836,27
+tt7124300,tt5420376,2,15,Riverdale,Chapter Twenty-Eight: There Will Be Blood,2018,\N,CW,8.1,762,28
+tt7124328,tt5420376,2,16,Riverdale,Chapter Twenty-Nine: Primary Colors,2018,\N,CW,8.2,799,29
+tt7124370,tt5420376,2,17,Riverdale,Chapter Thirty: The Noose Tightens,2018,\N,CW,8.3,779,30
+tt7124394,tt5420376,2,18,Riverdale,Chapter Thirty-One: A Night to Remember,2018,\N,CW,6.2,1657,31
+tt7124426,tt5420376,2,19,Riverdale,Chapter Thirty-Two: Prisoners,2018,\N,CW,8.7,893,32
+tt7124490,tt5420376,2,20,Riverdale,Chapter Thirty-Three: Shadow of a Doubt,2018,\N,CW,8.6,829,33
+tt7124590,tt5420376,2,21,Riverdale,Chapter Thirty-Four: Judgment Night,2018,\N,CW,9.3,1501,34
+tt7124636,tt5420376,2,22,Riverdale,Chapter Thirty-Five: Brave New World,2018,\N,CW,8.1,816,35
+tt8227226,tt5420376,3,1,Riverdale,Chapter Thirty-Six: Labor Day,2018,\N,CW,8.2,985,36
+tt8451418,tt5420376,3,2,Riverdale,Chapter Thirty-Seven: Fortune and Men's Eyes,2018,\N,CW,8.0,732,37
+tt8451426,tt5420376,3,3,Riverdale,"Chapter Thirty-Eight: As Above, So Below",2018,\N,CW,7.8,655,38
+tt8451428,tt5420376,3,5,Riverdale,Chapter Forty: The Great Escape,2018,\N,CW,8.5,627,40
+tt8451432,tt5420376,3,4,Riverdale,Chapter Thirty-Nine: The Midnight Club,2018,\N,CW,8.7,838,39
+tt8451434,tt5420376,3,6,Riverdale,Chapter Forty-One: Manhunter,2018,\N,CW,8.3,502,41
+tt8451436,tt5420376,3,7,Riverdale,Chapter Forty-Two: The Man in Black,2018,\N,CW,8.3,468,42
+tt8451438,tt5420376,3,8,Riverdale,Chapter Forty-Three: Outbreak,2018,\N,CW,8.5,383,43
+tt4525842,tt4016454,1,1,Supergirl,Pilot,2015,\N,CW,7.2,3983,1
+tt4550416,tt4016454,1,2,Supergirl,Stronger Together,2015,\N,CW,7.3,2856,2
+tt4559950,tt4016454,1,13,Supergirl,For the Girl Who Has Everything,2016,\N,CW,8.0,2086,13
+tt4603116,tt4016454,1,3,Supergirl,Fight or Flight,2015,\N,CW,7.4,2558,3
+tt4944380,tt4016454,1,5,Supergirl,How Does She Do It?,2015,\N,CW,7.6,2307,5
+tt4955274,tt4016454,1,10,Supergirl,Childish Things,2016,\N,CW,7.9,2089,10
+tt4955276,tt4016454,1,12,Supergirl,Bizarro,2016,\N,CW,7.8,1985,12
+tt4955278,tt4016454,1,8,Supergirl,Hostile Takeover,2015,\N,CW,8.1,2317,8
+tt4955280,tt4016454,1,4,Supergirl,Livewire,2015,\N,CW,7.5,2417,4
+tt4955282,tt4016454,1,6,Supergirl,Red Faced,2015,\N,CW,7.8,2402,6
+tt4955284,tt4016454,1,7,Supergirl,Human for a Day,2015,\N,CW,8.1,2405,7
+tt4955286,tt4016454,1,9,Supergirl,Blood Bonds,2016,\N,CW,7.9,2086,9
+tt4955288,tt4016454,1,11,Supergirl,Strange Visitor from Another Planet,2016,\N,CW,8.1,2073,11
+tt5238500,tt4016454,1,14,Supergirl,"Truth, Justice and the American Way",2016,\N,CW,7.6,1866,14
+tt5238502,tt4016454,1,15,Supergirl,Solitude,2016,\N,CW,7.9,1898,15
+tt5238510,tt4016454,1,16,Supergirl,Falling,2016,\N,CW,8.7,2667,16
+tt5238950,tt4016454,1,17,Supergirl,Manhunter,2016,\N,CW,8.2,1996,17
+tt5238952,tt4016454,1,18,Supergirl,Worlds Finest,2016,\N,CW,8.8,3401,18
+tt5238960,tt4016454,1,19,Supergirl,Myriad,2016,\N,CW,7.8,1813,19
+tt5238972,tt4016454,1,20,Supergirl,Better Angels,2016,\N,CW,7.9,2006,20
+tt5716756,tt4016454,2,1,Supergirl,The Adventures of Supergirl,2016,\N,CW,8.4,2438,21
+tt5813998,tt4016454,2,2,Supergirl,The Last Children of Krypton,2016,\N,CW,8.2,1805,22
+tt5826040,tt4016454,2,3,Supergirl,Welcome to Earth,2016,\N,CW,8.0,1755,23
+tt5827214,tt4016454,2,22,Supergirl,"Nevertheless, She Persisted",2017,\N,CW,7.9,1467,42
+tt5957602,tt4016454,2,4,Supergirl,Survivors,2016,\N,CW,7.9,1658,24
+tt5957610,tt4016454,2,5,Supergirl,Crossfire,2016,\N,CW,7.8,1686,25
+tt5957622,tt4016454,2,6,Supergirl,Changing,2016,\N,CW,7.9,1738,26
+tt5957628,tt4016454,2,7,Supergirl,The Darkest Place,2016,\N,CW,7.9,1590,27
+tt5957644,tt4016454,2,8,Supergirl,Medusa,2016,\N,CW,8.1,2026,28
+tt5957654,tt4016454,2,9,Supergirl,Supergirl Lives,2017,\N,CW,7.8,1526,29
+tt5957844,tt4016454,2,10,Supergirl,We Can Be Heroes,2017,\N,CW,7.5,1387,30
+tt5957846,tt4016454,2,11,Supergirl,The Martian Chronicles,2017,\N,CW,7.7,1365,31
+tt5957848,tt4016454,2,12,Supergirl,Luthors,2017,\N,CW,8.0,1536,32
+tt5957854,tt4016454,2,13,Supergirl,Mr. & Mrs. Mxyzptlk,2017,\N,CW,7.5,1605,33
+tt5957856,tt4016454,2,14,Supergirl,Homecoming,2017,\N,CW,7.5,1399,34
+tt5957862,tt4016454,2,15,Supergirl,Exodus,2017,\N,CW,8.1,1536,35
+tt5957864,tt4016454,2,16,Supergirl,Star-Crossed,2017,\N,CW,7.4,1407,36
+tt5957866,tt4016454,2,17,Supergirl,Distant Sun,2017,\N,CW,7.7,1292,37
+tt5957876,tt4016454,2,18,Supergirl,Ace Reporter,2017,\N,CW,7.6,1267,38
+tt5957882,tt4016454,2,19,Supergirl,Alex,2017,\N,CW,7.8,1331,39
+tt5957888,tt4016454,2,20,Supergirl,City of Lost Children,2017,\N,CW,7.5,1183,40
+tt5957908,tt4016454,2,21,Supergirl,Resist,2017,\N,CW,7.8,1315,41
+tt6403442,tt4016454,3,1,Supergirl,Girl of Steel,2017,\N,CW,7.8,1441,43
+tt7171722,tt4016454,3,2,Supergirl,Triggers,2017,\N,CW,7.5,1221,44
+tt7171726,tt4016454,3,3,Supergirl,Far from the Tree,2017,\N,CW,7.4,1225,45
+tt7200898,tt4016454,3,4,Supergirl,The Faithful,2017,\N,CW,7.6,1133,46
+tt7216108,tt4016454,3,8,Supergirl,"Crisis on Earth-X, Part 1",2017,\N,CW,8.9,2640,50
+tt7252130,tt4016454,3,5,Supergirl,Damage,2017,\N,CW,7.6,1165,47
+tt7304078,tt4016454,3,6,Supergirl,Midvale,2017,\N,CW,8.3,1409,48
+tt7314624,tt4016454,3,7,Supergirl,Wake Up,2017,\N,CW,7.8,1155,49
+tt7541772,tt4016454,3,9,Supergirl,Reign,2017,\N,CW,8.6,1398,51
+tt7617864,tt4016454,3,15,Supergirl,In Search of Lost Time,2018,\N,CW,7.6,868,57
+tt7637944,tt4016454,3,10,Supergirl,Legion of Super-Heroes,2018,\N,CW,7.9,1056,52
+tt7637966,tt4016454,3,11,Supergirl,Fort Rozz,2018,\N,CW,7.7,987,53
+tt7637972,tt4016454,3,12,Supergirl,For Good,2018,\N,CW,7.3,987,54
+tt7637980,tt4016454,3,13,Supergirl,Both Sides Now,2018,\N,CW,7.4,966,55
+tt7638002,tt4016454,3,14,Supergirl,Schott Through the Heart,2018,\N,CW,7.2,894,56
+tt7762810,tt4016454,3,16,Supergirl,Of Two Minds,2018,\N,CW,7.5,822,58
+tt7762812,tt4016454,3,17,Supergirl,Trinity,2018,\N,CW,7.6,838,59
+tt7762814,tt4016454,3,18,Supergirl,Shelter from the Storm,2018,\N,CW,7.5,790,60
+tt7762822,tt4016454,3,19,Supergirl,The Fanatical,2018,\N,CW,7.0,815,61
+tt7762826,tt4016454,3,20,Supergirl,Dark Side of the Moon,2018,\N,CW,7.3,796,62
+tt7762828,tt4016454,3,21,Supergirl,Not Kansas,2018,\N,CW,6.4,955,63
+tt7762834,tt4016454,3,22,Supergirl,Make It Reign,2018,\N,CW,7.3,725,64
+tt7762842,tt4016454,3,23,Supergirl,Battles Lost and Won,2018,\N,CW,7.6,758,65
+tt8227102,tt4016454,4,1,Supergirl,American Alien,2018,\N,CW,7.1,877,66
+tt8685330,tt4016454,4,3,Supergirl,Man of Steel,2018,\N,CW,7.3,839,68
+tt8752588,tt4016454,4,2,Supergirl,Fallout,2018,\N,CW,7.4,1268,67
+tt8752590,tt4016454,4,4,Supergirl,Ahimsa,2018,\N,CW,6.8,636,69
+tt8883894,tt4016454,4,9,Supergirl,"Elseworlds, Part 3",2018,\N,CW,8.7,1061,74
+tt8924672,tt4016454,4,5,Supergirl,Parasite Lost,2018,\N,CW,6.3,700,70
+tt8939116,tt4016454,4,6,Supergirl,Call to Action,2018,\N,CW,6.8,578,71
+tt8939126,tt4016454,4,7,Supergirl,Rather the Fallen Angel,2018,\N,CW,7.0,538,72
+tt9146322,tt4016454,4,8,Supergirl,Bunker Hill,2018,\N,CW,7.4,524,73
+tt2912494,tt2661044,1,1,The 100,Pilot,2014,\N,CW,7.6,4539,1
+tt3143980,tt2661044,1,2,The 100,Earth Skills,2014,\N,CW,7.7,3770,2
+tt3143986,tt2661044,1,3,The 100,Earth Kills,2014,\N,CW,8.0,3584,3
+tt3204812,tt2661044,1,4,The 100,Murphy's Law,2014,\N,CW,7.9,3431,4
+tt3231760,tt2661044,1,5,The 100,Twilight's Last Gleaming,2014,\N,CW,8.2,3352,5
+tt3281866,tt2661044,1,6,The 100,His Sister's Keeper,2014,\N,CW,8.1,3295,6
+tt3361356,tt2661044,1,8,The 100,Day Trip,2014,\N,CW,8.0,3278,8
+tt3364956,tt2661044,1,7,The 100,Contents Under Pressure,2014,\N,CW,8.2,3270,7
+tt3395540,tt2661044,1,10,The 100,I Am Become Death,2014,\N,CW,8.4,3180,10
+tt3403820,tt2661044,1,11,The 100,The Calm,2014,\N,CW,8.1,3091,11
+tt3414460,tt2661044,1,9,The 100,Unity Day,2014,\N,CW,8.3,3203,9
+tt3460414,tt2661044,1,12,The 100,We Are Grounders: Part 1,2014,\N,CW,8.5,3230,12
+tt3546818,tt2661044,1,13,The 100,We Are Grounders: Part 2,2014,\N,CW,9.0,3720,13
+tt3721014,tt2661044,2,1,The 100,The 48,2014,\N,CW,8.5,3361,14
+tt3908490,tt2661044,2,2,The 100,Inclement Weather,2014,\N,CW,8.5,3127,15
+tt3960198,tt2661044,2,3,The 100,Reapercussions,2014,\N,CW,8.4,3011,16
+tt3967166,tt2661044,2,4,The 100,Many Happy Returns,2014,\N,CW,8.4,3020,17
+tt3967172,tt2661044,2,5,The 100,Human Trials,2014,\N,CW,8.6,3204,18
+tt3970230,tt2661044,2,6,The 100,Fog of War,2014,\N,CW,8.5,3060,19
+tt3970232,tt2661044,2,7,The 100,Long Into an Abyss,2014,\N,CW,8.7,3159,20
+tt3970236,tt2661044,2,8,The 100,Spacewalker,2014,\N,CW,9.0,3866,21
+tt3970238,tt2661044,2,9,The 100,Remember Me,2015,\N,CW,8.4,3007,22
+tt3986334,tt2661044,2,10,The 100,Survival of the Fittest,2015,\N,CW,8.4,2994,23
+tt3986336,tt2661044,2,11,The 100,Coup de Grâce,2015,\N,CW,8.9,3219,24
+tt3986340,tt2661044,2,12,The 100,Rubicon,2015,\N,CW,8.7,3068,25
+tt3986342,tt2661044,2,13,The 100,Resurrection,2015,\N,CW,8.8,3144,26
+tt3986344,tt2661044,2,15,The 100,Blood Must Have Blood: Part 1,2015,\N,CW,8.9,3570,28
+tt3986348,tt2661044,2,14,The 100,Bodyguard of Lies,2015,\N,CW,9.0,3751,27
+tt3986350,tt2661044,2,16,The 100,Blood Must Have Blood: Part 2,2015,\N,CW,9.3,4921,29
+tt4346790,tt2661044,3,1,The 100,Wanheda: Part 1,2016,\N,CW,8.1,4308,30
+tt4731490,tt2661044,3,2,The 100,Wanheda: Part 2,2016,\N,CW,8.6,4018,31
+tt4731492,tt2661044,3,4,The 100,Watch the Thrones,2016,\N,CW,8.8,4417,33
+tt4731494,tt2661044,3,3,The 100,Ye Who Enter Here,2016,\N,CW,9.0,4742,32
+tt4731496,tt2661044,3,5,The 100,Hakeldama,2016,\N,CW,8.4,3854,34
+tt4731498,tt2661044,3,6,The 100,Bitter Harvest,2016,\N,CW,8.5,4070,35
+tt4731502,tt2661044,3,7,The 100,Thirteen,2016,\N,CW,6.0,10964,36
+tt4799894,tt2661044,3,8,The 100,Terms and Conditions,2016,\N,CW,6.2,8070,37
+tt4799896,tt2661044,3,9,The 100,Stealing Fire,2016,\N,CW,6.4,7471,38
+tt4799898,tt2661044,3,10,The 100,Fallen,2016,\N,CW,6.5,7107,39
+tt4799900,tt2661044,3,12,The 100,Demons,2016,\N,CW,6.9,5924,41
+tt4799902,tt2661044,3,11,The 100,Nevermore,2016,\N,CW,7.1,7547,40
+tt4799908,tt2661044,3,13,The 100,Join or Die,2016,\N,CW,7.1,5595,42
+tt5073498,tt2661044,3,15,The 100,Perverse Instantiation: Part One,2016,\N,CW,7.3,5463,44
+tt5242868,tt2661044,3,14,The 100,Red Sky at Morning,2016,\N,CW,7.1,5254,43
+tt5289986,tt2661044,3,16,The 100,Perverse Instantiation: Part Two,2016,\N,CW,7.5,4821,45
+tt5540928,tt2661044,4,1,The 100,Echoes,2017,\N,CW,7.8,2906,46
+tt5904036,tt2661044,4,2,The 100,Heavy Lies the Crown,2017,\N,CW,8.0,2257,47
+tt6009796,tt2661044,4,3,The 100,The Four Horsemen,2017,\N,CW,8.3,2439,48
+tt6031686,tt2661044,4,4,The 100,A Lie Guarded,2017,\N,CW,8.3,2008,49
+tt6035900,tt2661044,4,5,The 100,The Tinder Box,2017,\N,CW,8.5,1859,50
+tt6075396,tt2661044,4,6,The 100,We Will Rise,2017,\N,CW,8.1,1598,51
+tt6114888,tt2661044,4,7,The 100,Gimme Shelter,2017,\N,CW,8.1,1544,52
+tt6134090,tt2661044,4,8,The 100,God Complex,2017,\N,CW,8.3,1538,53
+tt6181020,tt2661044,4,9,The 100,DNR,2017,\N,CW,8.2,1449,54
+tt6181030,tt2661044,4,11,The 100,The Other Side,2017,\N,CW,8.4,1533,56
+tt6181034,tt2661044,4,12,The 100,The Chosen,2017,\N,CW,9.0,1724,57
+tt6181036,tt2661044,4,13,The 100,Praimfaya,2017,\N,CW,9.3,2705,58
+tt6633090,tt2661044,5,1,The 100,Eden,2018,\N,CW,9.0,2373,59
+tt6681358,tt2661044,4,10,The 100,"Die All, Die Merrily",2017,\N,CW,9.3,2326,55
+tt7164068,tt2661044,5,2,The 100,Red Queen,2018,\N,CW,9.0,1893,60
+tt7164070,tt2661044,5,3,The 100,Sleeping Giants,2018,\N,CW,9.3,1941,61
+tt7214516,tt2661044,5,4,The 100,Pandora's Box,2018,\N,CW,9.0,1560,62
+tt7228342,tt2661044,5,5,The 100,Shifting Sands,2018,\N,CW,8.7,1347,63
+tt7228346,tt2661044,5,6,The 100,Exit Wounds,2018,\N,CW,8.6,1186,64
+tt7228352,tt2661044,5,7,The 100,Acceptable Losses,2018,\N,CW,8.6,1083,65
+tt7228356,tt2661044,5,9,The 100,Sic Semper Tyrannis,2018,\N,CW,9.0,1099,67
+tt7228358,tt2661044,5,8,The 100,How We Get to Peace,2018,\N,CW,8.9,1139,66
+tt7228362,tt2661044,5,10,The 100,The Warriors Will,2018,\N,CW,8.6,1012,68
+tt7228364,tt2661044,5,11,The 100,The Dark Year,2018,\N,CW,8.8,1027,69
+tt7228366,tt2661044,5,13,The 100,Damocles: Part Two,2018,\N,CW,9.8,3006,71
+tt7228370,tt2661044,5,12,The 100,Damocles: Part One,2018,\N,CW,9.2,1317,70
+tt1036062,tt0397442,1,1,Gossip Girl,Pilot,2007,\N,CW,7.6,1093,1
+tt1036063,tt0397442,1,10,Gossip Girl,"Hi, Society",2007,\N,CW,7.8,645,10
+tt1036064,tt0397442,1,11,Gossip Girl,Roman Holiday,2007,\N,CW,7.5,592,11
+tt1036065,tt0397442,1,12,Gossip Girl,School Lies,2008,\N,CW,7.5,585,12
+tt1036066,tt0397442,1,13,Gossip Girl,A Thin Line Between Chuck and Nate,2008,\N,CW,7.8,594,13
+tt1036067,tt0397442,1,2,Gossip Girl,The Wild Brunch,2007,\N,CW,7.6,773,2
+tt1036068,tt0397442,1,3,Gossip Girl,Poison Ivy,2007,\N,CW,7.6,652,3
+tt1036069,tt0397442,1,4,Gossip Girl,Bad News Blair,2007,\N,CW,7.5,658,4
+tt1036070,tt0397442,1,5,Gossip Girl,Dare Devil,2007,\N,CW,7.7,632,5
+tt1036071,tt0397442,1,6,Gossip Girl,The Handmaiden's Tale,2007,\N,CW,7.4,613,6
+tt1036072,tt0397442,1,7,Gossip Girl,Victor/Victrola,2007,\N,CW,7.9,796,7
+tt1036073,tt0397442,1,8,Gossip Girl,Seventeen Candles,2007,\N,CW,7.8,615,8
+tt1036074,tt0397442,1,9,Gossip Girl,Blair Waldorf Must Pie!,2007,\N,CW,7.4,608,9
+tt1122270,tt0397442,1,14,Gossip Girl,The Blair Bitch Project,2008,\N,CW,7.8,630,14
+tt1122271,tt0397442,1,15,Gossip Girl,Desperately Seeking Serena,2008,\N,CW,7.7,575,15
+tt1122272,tt0397442,1,16,Gossip Girl,All About My Brother,2008,\N,CW,7.8,611,16
+tt1122273,tt0397442,1,17,Gossip Girl,Woman on the Verge,2008,\N,CW,7.8,572,17
+tt1122274,tt0397442,1,18,Gossip Girl,Much 'I Do' About Nothing,2008,\N,CW,7.8,621,18
+tt1260025,tt0397442,2,1,Gossip Girl,Summer Kind of Wonderful,2008,\N,CW,8.0,751,19
+tt1266845,tt0397442,2,10,Gossip Girl,Bonfire of the Vanity,2008,\N,CW,7.8,451,28
+tt1266846,tt0397442,2,11,Gossip Girl,The Magnificent Archibalds,2008,\N,CW,7.8,449,29
+tt1266847,tt0397442,2,12,Gossip Girl,It's a Wonderful Lie,2008,\N,CW,7.8,484,30
+tt1266848,tt0397442,2,13,Gossip Girl,"O Brother, Where Bart Thou?",2008,\N,CW,8.2,649,31
+tt1266849,tt0397442,2,14,Gossip Girl,In the Realm of the Basses,2009,\N,CW,7.8,489,32
+tt1266850,tt0397442,2,15,Gossip Girl,Gone with the Will,2009,\N,CW,7.8,464,33
+tt1266851,tt0397442,2,16,Gossip Girl,You've Got Yale!,2009,\N,CW,7.8,489,34
+tt1266852,tt0397442,2,17,Gossip Girl,Carrnal Knowledge,2009,\N,CW,7.7,487,35
+tt1266853,tt0397442,2,18,Gossip Girl,The Age of Dissonance,2009,\N,CW,7.7,456,36
+tt1266854,tt0397442,2,19,Gossip Girl,The Grandfather,2009,\N,CW,7.6,415,37
+tt1266855,tt0397442,2,2,Gossip Girl,Never Been Marcused,2008,\N,CW,7.7,503,20
+tt1266856,tt0397442,2,20,Gossip Girl,Remains of the J,2009,\N,CW,7.6,411,38
+tt1266857,tt0397442,2,21,Gossip Girl,Seder Anything,2009,\N,CW,7.8,428,39
+tt1266859,tt0397442,2,3,Gossip Girl,The Dark Night,2008,\N,CW,7.8,522,21
+tt1266860,tt0397442,2,4,Gossip Girl,The Ex-Files,2008,\N,CW,7.7,507,22
+tt1266861,tt0397442,2,5,Gossip Girl,The Serena Also Rises,2008,\N,CW,7.8,509,23
+tt1266862,tt0397442,2,6,Gossip Girl,New Haven Can Wait,2008,\N,CW,7.8,498,24
+tt1266863,tt0397442,2,7,Gossip Girl,Chuck in Real Life,2008,\N,CW,7.8,527,25
+tt1266864,tt0397442,2,8,Gossip Girl,Pret-a-Poor-J,2008,\N,CW,8.0,567,26
+tt1266865,tt0397442,2,9,Gossip Girl,There Might be Blood,2008,\N,CW,7.9,498,27
+tt1392843,tt0397442,2,25,Gossip Girl,The Goodbye Gossip Girl,2009,\N,CW,8.3,687,43
+tt1392844,tt0397442,2,23,Gossip Girl,The Wrath of Con,2009,\N,CW,7.7,448,41
+tt1393347,tt0397442,2,24,Gossip Girl,Valley Girls,2009,\N,CW,7.8,620,42
+tt1418308,tt0397442,2,22,Gossip Girl,Southern Gentlemen Prefer Blondes,2009,\N,CW,7.8,409,40
+tt1472692,tt0397442,3,1,Gossip Girl,Reversals of Fortune,2009,\N,CW,7.7,498,44
+tt1475854,tt0397442,3,2,Gossip Girl,The Freshmen,2009,\N,CW,7.8,408,45
+tt1498656,tt0397442,3,4,Gossip Girl,Dan de Fleurette,2009,\N,CW,7.8,442,47
+tt1498657,tt0397442,3,3,Gossip Girl,The Lost Boy,2009,\N,CW,7.7,418,46
+tt1505557,tt0397442,3,6,Gossip Girl,Enough About Eve,2009,\N,CW,7.7,410,49
+tt1505558,tt0397442,3,7,Gossip Girl,How to Succeed in Bassness,2009,\N,CW,7.8,385,50
+tt1505559,tt0397442,3,5,Gossip Girl,Rufus Getting Married,2009,\N,CW,7.8,400,48
+tt1505560,tt0397442,3,8,Gossip Girl,The Grandfather: Part II,2009,\N,CW,7.7,372,51
+tt1518720,tt0397442,3,10,Gossip Girl,The Last Days of Disco Stick,2009,\N,CW,7.7,413,53
+tt1518721,tt0397442,3,9,Gossip Girl,"They Shoot Humphreys, Don't They?",2009,\N,CW,7.8,411,52
+tt1548668,tt0397442,3,11,Gossip Girl,The Treasure of Serena Madre,2009,\N,CW,7.7,408,54
+tt1553485,tt0397442,3,13,Gossip Girl,The Hurt Locket,2010,\N,CW,7.3,387,56
+tt1553486,tt0397442,3,12,Gossip Girl,The Debarted,2009,\N,CW,7.8,436,55
+tt1562508,tt0397442,3,14,Gossip Girl,The Lady Vanished,2010,\N,CW,7.3,361,57
+tt1564637,tt0397442,3,15,Gossip Girl,The Sixteen Year Old Virgin,2010,\N,CW,7.4,350,58
+tt1576522,tt0397442,3,16,Gossip Girl,The Empire Strikes Jack,2010,\N,CW,7.2,352,59
+tt1586862,tt0397442,3,17,Gossip Girl,Inglourious Bassterds,2010,\N,CW,7.8,358,60
+tt1586863,tt0397442,3,18,Gossip Girl,The Unblairable Lightness of Being,2010,\N,CW,7.7,363,61
+tt1605236,tt0397442,3,19,Gossip Girl,Dr. Estrangeloved,2010,\N,CW,7.3,336,62
+tt1605237,tt0397442,3,20,Gossip Girl,"It's a Dad, Dad, Dad, Dad World",2010,\N,CW,7.1,354,63
+tt1609310,tt0397442,3,22,Gossip Girl,"Last Tango, Then Paris",2010,\N,CW,7.8,464,65
+tt1609605,tt0397442,3,21,Gossip Girl,Ex-Husbands and Wives,2010,\N,CW,7.7,341,64
+tt1635985,tt0397442,4,1,Gossip Girl,Belles de Jour,2010,\N,CW,7.8,495,66
+tt1635986,tt0397442,4,10,Gossip Girl,Gaslit,2010,\N,CW,7.8,345,75
+tt1635987,tt0397442,4,11,Gossip Girl,The Townie,2010,\N,CW,7.7,391,76
+tt1635988,tt0397442,4,12,Gossip Girl,The Kids Are Not All Right,2011,\N,CW,7.6,323,77
+tt1635989,tt0397442,4,13,Gossip Girl,Damien Darko,2011,\N,CW,7.6,310,78
+tt1635990,tt0397442,4,14,Gossip Girl,Panic Roommate,2011,\N,CW,6.9,340,79
+tt1635991,tt0397442,4,15,Gossip Girl,It-Girl Happened One Night,2011,\N,CW,7.1,330,80
+tt1635992,tt0397442,4,16,Gossip Girl,While You Weren't Sleeping,2011,\N,CW,7.4,333,81
+tt1635993,tt0397442,4,17,Gossip Girl,Empire of the Son,2011,\N,CW,7.7,347,82
+tt1635994,tt0397442,4,18,Gossip Girl,The Kids Stay in the Picture,2011,\N,CW,6.9,351,83
+tt1635995,tt0397442,4,19,Gossip Girl,Petty in Pink,2011,\N,CW,7.6,322,84
+tt1635996,tt0397442,4,2,Gossip Girl,Double Identity,2010,\N,CW,8.0,488,67
+tt1635997,tt0397442,4,20,Gossip Girl,The Princesses and the Frog,2011,\N,CW,7.0,353,85
+tt1635998,tt0397442,4,21,Gossip Girl,Shattered Bass,2011,\N,CW,7.1,351,86
+tt1635999,tt0397442,4,22,Gossip Girl,The Wrong Goodbye,2011,\N,CW,7.7,440,87
+tt1636000,tt0397442,4,3,Gossip Girl,The Undergraduates,2010,\N,CW,7.6,353,68
+tt1636001,tt0397442,4,4,Gossip Girl,Touch of Eva,2010,\N,CW,7.7,335,69
+tt1636002,tt0397442,4,5,Gossip Girl,"Goodbye, Columbia",2010,\N,CW,7.6,321,70
+tt1636003,tt0397442,4,6,Gossip Girl,Easy J,2010,\N,CW,7.7,366,71
+tt1636004,tt0397442,4,7,Gossip Girl,War at the Roses,2010,\N,CW,7.7,411,72
+tt1636005,tt0397442,4,8,Gossip Girl,Juliet Doesn't Live Here Anymore,2010,\N,CW,7.7,374,73
+tt1636006,tt0397442,4,9,Gossip Girl,The Witches of Bushwick,2010,\N,CW,7.7,384,74
+tt1926567,tt0397442,5,1,Gossip Girl,"Yes, Then Zero",2011,\N,CW,7.7,472,88
+tt1942310,tt0397442,5,16,Gossip Girl,Cross Rhodes,2012,\N,CW,7.7,317,103
+tt1942311,tt0397442,5,17,Gossip Girl,The Princess Dowry,2012,\N,CW,7.6,328,104
+tt1942312,tt0397442,5,18,Gossip Girl,Con-Heir,2012,\N,CW,7.1,344,105
+tt1942313,tt0397442,5,19,Gossip Girl,"It Girl, Interrupted",2012,\N,CW,6.7,319,106
+tt1942314,tt0397442,5,20,Gossip Girl,Salon of the Dead,2012,\N,CW,7.3,317,107
+tt1942315,tt0397442,5,21,Gossip Girl,Despicable B,2012,\N,CW,6.9,327,108
+tt1942316,tt0397442,5,22,Gossip Girl,Raiders of the Lost Art,2012,\N,CW,7.7,341,109
+tt1979706,tt0397442,5,10,Gossip Girl,Riding in Town Cars with Boys,2011,\N,CW,7.8,402,97
+tt1979707,tt0397442,5,11,Gossip Girl,The End of the Affair?,2012,\N,CW,6.6,422,98
+tt1979708,tt0397442,5,12,Gossip Girl,Father and the Bride,2012,\N,CW,7.2,320,99
+tt1979709,tt0397442,5,13,Gossip Girl,G.G.,2012,\N,CW,7.9,476,100
+tt1979710,tt0397442,5,14,Gossip Girl,The Backup Dan,2012,\N,CW,7.7,323,101
+tt1979711,tt0397442,5,15,Gossip Girl,"Crazy, Cupid, Love",2012,\N,CW,7.4,356,102
+tt1979712,tt0397442,5,2,Gossip Girl,Beauty and the Feast,2011,\N,CW,6.8,356,89
+tt1979713,tt0397442,5,3,Gossip Girl,The Jewel of Denial,2011,\N,CW,7.6,312,90
+tt1979714,tt0397442,5,4,Gossip Girl,Memoirs of an Invisible Dan,2011,\N,CW,7.7,338,91
+tt1979715,tt0397442,5,5,Gossip Girl,The Fasting and the Furious,2011,\N,CW,6.9,327,92
+tt1979716,tt0397442,5,6,Gossip Girl,I Am Number Nine,2011,\N,CW,7.6,322,93
+tt1979717,tt0397442,5,7,Gossip Girl,The Big Sleep No More,2011,\N,CW,6.8,340,94
+tt1979718,tt0397442,5,8,Gossip Girl,All the Pretty Sources,2011,\N,CW,7.7,307,95
+tt1979719,tt0397442,5,9,Gossip Girl,Rhodes to Perdition,2011,\N,CW,7.1,319,96
+tt2072501,tt0397442,5,23,Gossip Girl,The Fugitives,2012,\N,CW,7.1,291,110
+tt2072502,tt0397442,5,24,Gossip Girl,The Return of the Ring,2012,\N,CW,7.6,365,111
+tt2360062,tt0397442,6,2,Gossip Girl,High Infidelity,2012,\N,CW,6.7,356,113
+tt2366338,tt0397442,6,6,Gossip Girl,Where the Vile Things Are,2012,\N,CW,7.5,297,117
+tt2399795,tt0397442,6,1,Gossip Girl,Gone Maybe Gone,2012,\N,CW,7.6,507,112
+tt2440778,tt0397442,6,3,Gossip Girl,Dirty Rotten Scandals,2012,\N,CW,6.5,341,114
+tt2450692,tt0397442,6,4,Gossip Girl,Portrait of a Lady Alexander,2012,\N,CW,6.6,330,115
+tt2461438,tt0397442,6,5,Gossip Girl,Monstrous Ball,2012,\N,CW,6.6,312,116
+tt2461448,tt0397442,6,7,Gossip Girl,Save the Last Chance,2012,\N,CW,7.6,310,118
+tt2461452,tt0397442,6,8,Gossip Girl,It's Really Complicated,2012,\N,CW,7.6,309,119
+tt2461456,tt0397442,6,9,Gossip Girl,The Revengers,2012,\N,CW,7.7,371,120
+tt2461460,tt0397442,6,10,Gossip Girl,"New York, I Love You XOXO",2012,\N,CW,8.8,1490,121
+tt0539315,tt0158552,8,14,Charmed,12 Angry Zen,2006,\N,CW,7.9,311,171
+tt0539316,tt0158552,7,1,Charmed,A Call to Arms,2004,\N,CW,7.7,360,136
+tt0539317,tt0158552,4,6,Charmed,A Knight to Remember,2001,\N,CW,8.1,404,73
+tt0539318,tt0158552,4,10,Charmed,A Paige from the Past,2002,\N,CW,8.6,427,77
+tt0539319,tt0158552,5,8,Charmed,A Witch in Time,2002,\N,CW,8.7,387,97
+tt0539320,tt0158552,5,1,Charmed,A Witch's Tail: Part 1,2002,\N,CW,8.4,436,90
+tt0539321,tt0158552,5,2,Charmed,A Witch's Tail: Part 2,2002,\N,CW,8.4,397,91
+tt0539322,tt0158552,6,20,Charmed,A Wrong Day's Journey Into Right,2004,\N,CW,7.5,321,132
+tt0539323,tt0158552,3,4,Charmed,All Halliwell's Eve,2000,\N,CW,8.7,538,49
+tt0539324,tt0158552,3,22,Charmed,All Hell Breaks Loose,2001,\N,CW,9.2,810,67
+tt0539325,tt0158552,2,13,Charmed,Animal Pragmatism,2000,\N,CW,7.5,446,36
+tt0539326,tt0158552,2,21,Charmed,"Apocalypse, Not",2000,\N,CW,8.3,467,44
+tt0539327,tt0158552,2,20,Charmed,Astral Monkey,2000,\N,CW,8.4,465,43
+tt0539328,tt0158552,2,12,Charmed,Awakened,2000,\N,CW,8.6,498,35
+tt0539329,tt0158552,5,16,Charmed,Baby's First Demon,2003,\N,CW,7.8,321,105
+tt0539330,tt0158552,8,8,Charmed,Battle of the Hexes,2005,\N,CW,7.1,296,165
+tt0539331,tt0158552,2,22,Charmed,Be Careful What You Witch For,2000,\N,CW,8.4,476,45
+tt0539332,tt0158552,4,18,Charmed,Bite Me,2002,\N,CW,8.4,405,85
+tt0539333,tt0158552,4,8,Charmed,Black as Cole,2001,\N,CW,8.4,411,75
+tt0539334,tt0158552,3,11,Charmed,Blinded by the Whitelighter,2001,\N,CW,8.4,450,56
+tt0539335,tt0158552,4,7,Charmed,Brain Drain,2001,\N,CW,8.7,446,74
+tt0539336,tt0158552,3,13,Charmed,Bride and Gloom,2001,\N,CW,8.6,433,58
+tt0539337,tt0158552,7,14,Charmed,Carpe Demon,2005,\N,CW,7.6,326,149
+tt0539338,tt0158552,5,18,Charmed,Cat House,2003,\N,CW,8.1,373,107
+tt0539339,tt0158552,5,12,Charmed,Centennial Charmed,2003,\N,CW,8.8,455,101
+tt0539340,tt0158552,7,13,Charmed,Charmageddon,2005,\N,CW,8.4,345,148
+tt0539341,tt0158552,4,1,Charmed,Charmed Again: Part 1,2001,\N,CW,8.8,561,68
+tt0539342,tt0158552,4,2,Charmed,Charmed Again: Part 2,2001,\N,CW,8.8,479,69
+tt0539343,tt0158552,7,8,Charmed,Charmed Noir,2004,\N,CW,8.5,379,143
+tt0539344,tt0158552,4,13,Charmed,Charmed and Dangerous,2002,\N,CW,8.9,455,80
+tt0539345,tt0158552,7,4,Charmed,Charrrmed!,2004,\N,CW,7.3,329,139
+tt0539346,tt0158552,7,3,Charmed,Cheaper by the Coven,2004,\N,CW,7.9,355,138
+tt0539347,tt0158552,2,18,Charmed,Chick Flick,2000,\N,CW,8.7,516,41
+tt0539348,tt0158552,6,10,Charmed,Chris-Crossed,2003,\N,CW,8.7,443,122
+tt0539349,tt0158552,3,9,Charmed,Coyote Piper,2001,\N,CW,8.6,469,54
+tt0539350,tt0158552,6,19,Charmed,Crimes & Witch Demeanors,2004,\N,CW,7.4,353,131
+tt0539351,tt0158552,1,4,Charmed,Dead Man Dating,1998,\N,CW,8.5,644,5
+tt9035174,tt6394324,1,4,Charmed,Exorcise Your Demons,2018,\N,CW,5.2,382,5
+tt0539352,tt0158552,7,21,Charmed,Death Becomes Them,2005,\N,CW,8.2,312,156
+tt0539353,tt0158552,3,16,Charmed,Death Takes a Halliwell,2001,\N,CW,8.5,443,61
+tt0539354,tt0158552,8,4,Charmed,Desperate Housewitches,2005,\N,CW,8.0,334,161
+tt0539355,tt0158552,1,5,Charmed,Dream Sorcerer,1998,\N,CW,7.8,562,6
+tt9005738,tt6394324,1,5,Charmed,Other Women,2018,\N,CW,5.2,322,6
+tt0539356,tt0158552,1,22,Charmed,Déjà Vu All Over Again,1999,\N,CW,9.1,702,23
+tt0539357,tt0158552,4,4,Charmed,Enter the Demon,2001,\N,CW,8.3,426,71
+tt0539358,tt0158552,2,19,Charmed,Ex Libris,2000,\N,CW,8.3,451,42
+tt0539359,tt0158552,3,20,Charmed,Exit Strategy,2001,\N,CW,8.4,414,65
+tt0539360,tt0158552,7,12,Charmed,Extreme Makeover World Edition,2005,\N,CW,8.3,325,147
+tt0539361,tt0158552,1,11,Charmed,Feats of Clay,1999,\N,CW,7.3,526,12
+tt0539362,tt0158552,6,3,Charmed,Forget Me... Not,2003,\N,CW,8.1,359,115
+tt0539363,tt0158552,7,19,Charmed,Freaky Phoebe,2005,\N,CW,7.8,316,154
+tt0539364,tt0158552,1,13,Charmed,From Fear to Eternity,1999,\N,CW,8.4,557,14
+tt0539365,tt0158552,2,15,Charmed,Give Me a Sign,2000,\N,CW,7.8,445,38
+tt0539366,tt0158552,5,3,Charmed,Happily Ever After,2002,\N,CW,8.4,407,92
+tt0539367,tt0158552,2,10,Charmed,Heartbreak City,2000,\N,CW,7.8,454,33
+tt0539368,tt0158552,4,3,Charmed,Hell Hath No Fury,2001,\N,CW,8.7,472,70
+tt0539369,tt0158552,5,13,Charmed,House Call,2003,\N,CW,7.9,346,102
+tt0539370,tt0158552,2,17,Charmed,How to Make a Quilt Out of Americans,2000,\N,CW,7.8,446,40
+tt0539371,tt0158552,8,9,Charmed,Hulkus Pocus,2005,\N,CW,7.3,298,166
+tt0539372,tt0158552,6,17,Charmed,Hyde School Reunion,2004,\N,CW,7.5,349,129
+tt0539373,tt0158552,6,15,Charmed,I Dream of Phoebe,2004,\N,CW,8.1,365,127
+tt0539374,tt0158552,1,2,Charmed,I've Got You Under My Skin,1998,\N,CW,7.7,639,3
+tt8914554,tt6394324,1,2,Charmed,Let This Mother Out,2018,\N,CW,5.3,560,3
+tt0539375,tt0158552,7,20,Charmed,Imaginary Fiends,2005,\N,CW,8.1,304,155
+tt0539376,tt0158552,1,15,Charmed,Is There a Woogy in the House?,1999,\N,CW,8.3,542,16
+tt0539377,tt0158552,6,22,Charmed,"It's a Bad, Bad, Bad, Bad World: Part 1",2004,\N,CW,8.6,390,134
+tt0539378,tt0158552,6,23,Charmed,"It's a Bad, Bad, Bad, Bad World: Part 2",2004,\N,CW,8.8,406,135
+tt0539379,tt0158552,3,15,Charmed,Just Harried,2001,\N,CW,8.7,469,60
+tt0539380,tt0158552,8,6,Charmed,Kill Billie: Vol.1,2005,\N,CW,7.2,286,163
+tt0539381,tt0158552,7,18,Charmed,Little Box of Horrors,2005,\N,CW,7.7,315,153
+tt0539382,tt0158552,6,9,Charmed,Little Monsters,2003,\N,CW,7.7,330,121
+tt0539383,tt0158552,4,20,Charmed,Long Live the Queen,2002,\N,CW,8.9,461,87
+tt0539384,tt0158552,3,21,Charmed,Look Who's Barking,2001,\N,CW,8.5,462,66
+tt0539385,tt0158552,4,12,Charmed,Lost and Bound,2002,\N,CW,8.1,387,79
+tt0539386,tt0158552,1,21,Charmed,Love Hurts,1999,\N,CW,8.6,531,22
+tt0539387,tt0158552,6,5,Charmed,Love's a Witch,2003,\N,CW,7.7,353,117
+tt0539388,tt0158552,5,17,Charmed,Lucky Charmed,2003,\N,CW,7.3,347,106
+tt0539389,tt0158552,3,2,Charmed,Magic Hour,2000,\N,CW,8.1,445,47
+tt0539390,tt0158552,8,2,Charmed,Malice in Wonderland,2005,\N,CW,7.0,323,159
+tt0539391,tt0158552,4,15,Charmed,Marry-Go-Round,2002,\N,CW,8.5,390,82
+tt0539392,tt0158552,2,2,Charmed,Morality Bites,1999,\N,CW,8.7,730,25
+tt0539393,tt0158552,8,11,Charmed,Mr. & Mrs. Witch,2006,\N,CW,7.2,294,168
+tt0539394,tt0158552,2,9,Charmed,Ms. Hellfire,2000,\N,CW,8.5,497,32
+tt0539395,tt0158552,2,16,Charmed,Murphy's Luck,2000,\N,CW,8.3,467,39
+tt0539396,tt0158552,4,9,Charmed,Muse to My Ears,2001,\N,CW,7.8,381,76
+tt0539397,tt0158552,6,6,Charmed,My Three Witches,2003,\N,CW,7.8,343,118
+tt0539398,tt0158552,5,21,Charmed,Necromancing the Stone,2003,\N,CW,7.7,339,110
+tt0539399,tt0158552,5,19,Charmed,Nymphs Just Wanna Have Fun,2003,\N,CW,7.1,346,108
+tt0539400,tt0158552,5,22,Charmed,Oh My Goddess!: Part 1,2003,\N,CW,8.2,398,111
+tt0539401,tt0158552,5,23,Charmed,Oh My Goddess!: Part 2,2003,\N,CW,8.3,379,112
+tt0539402,tt0158552,3,3,Charmed,Once Upon a Time,2000,\N,CW,7.9,462,48
+tt0539403,tt0158552,7,6,Charmed,Once in a Blue Moon,2004,\N,CW,7.4,326,141
+tt0539404,tt0158552,7,11,Charmed,Ordinary Witches,2005,\N,CW,7.8,312,146
+tt0539405,tt0158552,1,19,Charmed,Out of Sight,1999,\N,CW,8.3,508,20
+tt0539406,tt0158552,2,8,Charmed,P3 H2O,1999,\N,CW,8.4,502,31
+tt0539407,tt0158552,2,14,Charmed,Pardon My Past,2000,\N,CW,8.3,482,37
+tt0539408,tt0158552,8,12,Charmed,Payback's a Witch,2006,\N,CW,7.4,280,169
+tt0539409,tt0158552,3,7,Charmed,Power Outage,2000,\N,CW,8.7,457,52
+tt0539410,tt0158552,3,17,Charmed,Pre-Witched,2001,\N,CW,8.5,437,62
+tt0539411,tt0158552,3,6,Charmed,Primrose Empath,2000,\N,CW,8.6,471,51
+tt0539412,tt0158552,6,12,Charmed,Prince Charmed,2004,\N,CW,7.5,332,124
+tt0539413,tt0158552,2,11,Charmed,Reckless Abandon,2000,\N,CW,7.8,432,34
+tt0539414,tt0158552,8,13,Charmed,Repo Manor,2006,\N,CW,8.1,315,170
+tt0539415,tt0158552,8,5,Charmed,Rewitched,2005,\N,CW,7.9,318,162
+tt0539416,tt0158552,8,3,Charmed,"Run, Piper, Run",2005,\N,CW,7.8,331,160
+tt0539417,tt0158552,5,9,Charmed,Sam I Am,2002,\N,CW,8.0,350,98
+tt0539418,tt0158552,5,14,Charmed,Sand Francisco Dreamin',2003,\N,CW,7.8,343,103
+tt0539419,tt0158552,4,17,Charmed,Saving Private Leo,2002,\N,CW,8.2,402,84
+tt0539420,tt0158552,7,17,Charmed,Scry Hard,2005,\N,CW,8.1,311,152
+tt0539421,tt0158552,1,14,Charmed,Secrets and Guys,1999,\N,CW,7.7,497,15
+tt0539422,tt0158552,5,20,Charmed,Sense and Sense Ability,2003,\N,CW,8.8,446,109
+tt0539423,tt0158552,2,5,Charmed,"She's a Man, Baby, a Man!",1999,\N,CW,8.0,499,28
+tt0539424,tt0158552,7,15,Charmed,Show Ghouls,2005,\N,CW,7.2,341,150
+tt0539425,tt0158552,3,5,Charmed,Sight Unseen,2000,\N,CW,8.4,462,50
+tt0539426,tt0158552,3,18,Charmed,Sin Francisco,2001,\N,CW,8.8,483,63
+tt0539427,tt0158552,5,4,Charmed,Siren Song,2002,\N,CW,8.5,396,93
+tt0539428,tt0158552,4,5,Charmed,Size Matters,2001,\N,CW,8.2,428,72
+tt0539429,tt0158552,3,8,Charmed,Sleuthing with the Enemy,2000,\N,CW,8.8,482,53
+tt0539430,tt0158552,7,7,Charmed,Someone to Witch Over Me,2004,\N,CW,8.1,335,142
+tt0539431,tt0158552,1,1,Charmed,Something Wicca This Way Comes,1998,\N,CW,8.5,894,2
+tt8416378,tt6394324,1,1,Charmed,Pilot,2018,\N,CW,5.0,860,2
+tt0539432,tt0158552,7,22,Charmed,Something Wicca This Way Goes,2005,\N,CW,8.9,452,157
+tt0539433,tt0158552,6,7,Charmed,Soul Survivor,2003,\N,CW,7.3,329,119
+tt0539434,tt0158552,6,18,Charmed,Spin City,2004,\N,CW,7.7,370,130
+tt0539435,tt0158552,8,1,Charmed,Still Charmed and Kicking,2005,\N,CW,8.0,391,158
+tt0539436,tt0158552,7,5,Charmed,Styx Feet Under,2004,\N,CW,8.2,370,140
+tt0539437,tt0158552,6,8,Charmed,Sword and the City,2003,\N,CW,7.4,348,120
+tt0539438,tt0158552,5,7,Charmed,Sympathy for the Demon,2002,\N,CW,8.6,382,96
+tt0539439,tt0158552,1,3,Charmed,Thank You for Not Morphing,1998,\N,CW,7.5,591,4
+tt8908852,tt6394324,1,3,Charmed,Sweet Tooth,2018,\N,CW,5.3,460,4
+tt0539440,tt0158552,1,17,Charmed,That '70s Episode,1999,\N,CW,8.9,638,18
+tt0539441,tt0158552,2,6,Charmed,That Old Black Magic,1999,\N,CW,7.5,454,29
+tt0539442,tt0158552,7,2,Charmed,The Bare Witch Project,2004,\N,CW,7.6,358,137
+tt0539443,tt0158552,6,16,Charmed,The Courtship of Wyatt's Father,2004,\N,CW,8.3,365,128
+tt0539444,tt0158552,5,15,Charmed,The Day the Magic Died,2003,\N,CW,8.8,422,104
+tt0539445,tt0158552,3,19,Charmed,The Demon Who Came in from the Cold,2001,\N,CW,8.1,406,64
+tt0539446,tt0158552,2,4,Charmed,The Devil's Music,1999,\N,CW,7.6,456,27
+tt0539447,tt0158552,5,6,Charmed,The Eyes Have It,2002,\N,CW,8.2,393,95
+tt0539448,tt0158552,4,16,Charmed,The Fifth Halliwell,2002,\N,CW,8.3,393,83
+tt0539449,tt0158552,1,7,Charmed,The Fourth Sister,1998,\N,CW,7.7,573,8
+tt9005746,tt6394324,1,7,Charmed,Out of Scythe,2018,\N,CW,4.9,242,8
+tt0539450,tt0158552,3,14,Charmed,"The Good, the Bad and the Cursed",2001,\N,CW,8.6,494,59
+tt0539451,tt0158552,3,1,Charmed,The Honeymoon's Over,2000,\N,CW,8.5,475,46
+tt0539452,tt0158552,5,11,Charmed,The Importance of Being Phoebe,2003,\N,CW,8.3,362,100
+tt0539453,tt0158552,8,15,Charmed,The Last Temptation of Christy,2006,\N,CW,7.6,306,172
+tt0539454,tt0158552,6,14,Charmed,The Legend of Sleepy Halliwell,2004,\N,CW,8.0,374,126
+tt0539455,tt0158552,8,7,Charmed,The Lost Picture Show,2005,\N,CW,7.3,292,164
+tt0539456,tt0158552,2,3,Charmed,The Painted World,1999,\N,CW,8.4,497,26
+tt0539457,tt0158552,6,4,Charmed,The Power of Three Blondes,2003,\N,CW,7.9,398,116
+tt0539458,tt0158552,1,20,Charmed,The Power of Two,1999,\N,CW,8.3,492,21
+tt0539459,tt0158552,7,16,Charmed,The Seven Year Witch,2005,\N,CW,8.8,423,151
+tt0539460,tt0158552,4,14,Charmed,The Three Faces of Phoebe,2002,\N,CW,8.3,395,81
+tt0539461,tt0158552,1,8,Charmed,The Truth Is Out There... and It Hurts,1998,\N,CW,8.3,549,9
+tt9005744,tt6394324,1,8,Charmed,Bug a Boo,2018,\N,CW,4.9,222,9
+tt0539462,tt0158552,1,6,Charmed,The Wedding from Hell,1998,\N,CW,7.6,553,7
+tt9005742,tt6394324,1,6,Charmed,Kappa Spirit,2018,\N,CW,5.2,278,7
+tt0539463,tt0158552,1,12,Charmed,The Wendigo,1999,\N,CW,8.4,555,13
+tt0539464,tt0158552,1,9,Charmed,The Witch Is Back,1998,\N,CW,8.4,555,10
+tt9005748,tt6394324,1,9,Charmed,Jingle Hell,2018,\N,CW,4.9,188,10
+tt0539465,tt0158552,7,9,Charmed,There's Something About Leo,2004,\N,CW,8.3,342,144
+tt0539466,tt0158552,2,7,Charmed,They're Everywhere,1999,\N,CW,8.1,485,30
+tt0539467,tt0158552,4,11,Charmed,Trial by Magic,2002,\N,CW,7.8,393,78
+tt0539469,tt0158552,6,13,Charmed,Used Karma,2004,\N,CW,7.0,329,125
+tt0539470,tt0158552,6,1,Charmed,Valhalley of the Dolls: Part 1,2003,\N,CW,7.6,385,113
+tt0539471,tt0158552,6,2,Charmed,Valhalley of the Dolls: Part 2,2003,\N,CW,7.7,359,114
+tt0539472,tt0158552,8,10,Charmed,Vaya Con Leos,2005,\N,CW,8.6,353,167
+tt0539473,tt0158552,3,10,Charmed,We All Scream for Ice Cream,2001,\N,CW,8.0,432,55
+tt0539474,tt0158552,4,19,Charmed,We're Off to See the Wizard,2002,\N,CW,8.6,405,86
+tt0539475,tt0158552,1,18,Charmed,When Bad Warlocks Turn Good,1999,\N,CW,7.5,516,19
+tt0539476,tt0158552,1,16,Charmed,"Which Prue Is It, Anyway?",1999,\N,CW,8.5,535,17
+tt0539477,tt0158552,1,10,Charmed,Wicca Envy,1999,\N,CW,8.3,521,11
+tt0539478,tt0158552,2,1,Charmed,Witch Trial,1999,\N,CW,8.3,526,24
+tt0539479,tt0158552,6,21,Charmed,Witch Wars,2004,\N,CW,7.8,364,133
+tt0539480,tt0158552,4,22,Charmed,Witch Way Now?,2002,\N,CW,8.6,421,89
+tt0539481,tt0158552,5,5,Charmed,Witches in Tights,2002,\N,CW,8.0,404,94
+tt0539482,tt0158552,7,10,Charmed,Witchness Protection,2004,\N,CW,8.8,387,145
+tt0539483,tt0158552,6,11,Charmed,Witchstock,2004,\N,CW,7.9,372,123
+tt0539484,tt0158552,4,21,Charmed,Womb Raider,2002,\N,CW,8.6,396,88
+tt0539485,tt0158552,3,12,Charmed,Wrestling with Demons,2001,\N,CW,7.5,457,57
+tt0539486,tt0158552,5,10,Charmed,Y Tu Mummy También,2003,\N,CW,8.2,397,99
+tt0756430,tt0158552,8,16,Charmed,Engaged and Confused,2006,\N,CW,8.2,324,173
+tt0760401,tt0158552,8,17,Charmed,Generation Hex,2006,\N,CW,7.4,301,174
+tt0760402,tt0158552,8,18,Charmed,The Torn Identity,2006,\N,CW,7.7,307,175
+tt0762605,tt0158552,8,19,Charmed,The Jung and the Restless,2006,\N,CW,7.9,311,176
+tt0763133,tt0158552,8,20,Charmed,Gone with the Witches,2006,\N,CW,8.2,339,177
+tt0763134,tt0158552,8,22,Charmed,Forever Charmed,2006,\N,CW,9.3,1300,179
+tt0763135,tt0158552,8,21,Charmed,Kill Billie: Vol. 2,2006,\N,CW,8.9,446,178
+tt1037343,tt0158552,1,0,Charmed,Unaired Pilot,2008,\N,CW,7.8,202,1
+tt0588112,tt0238784,3,9,Gilmore Girls,A Deep Fried Korean Thanksgiving,2002,\N,CW,8.6,461,52
+tt0588113,tt0238784,4,12,Gilmore Girls,A Family Matter,2004,\N,CW,8.2,392,77
+tt0588114,tt0238784,5,22,Gilmore Girls,A House Is Not a Home,2005,\N,CW,8.8,408,109
+tt0588115,tt0238784,5,2,Gilmore Girls,"A Messenger, Nothing More",2004,\N,CW,8.2,382,89
+tt0588116,tt0238784,3,17,Gilmore Girls,A Tale of Poes and Fire,2003,\N,CW,8.4,433,60
+tt0588117,tt0238784,2,13,Gilmore Girls,"A-Tisket, A-Tasket",2002,\N,CW,8.6,498,34
+tt0588118,tt0238784,4,19,Gilmore Girls,Afterboom,2004,\N,CW,8.3,375,84
+tt0588119,tt0238784,6,4,Gilmore Girls,"Always a Godmother, Never a God",2005,\N,CW,7.7,361,113
+tt0588120,tt0238784,4,6,Gilmore Girls,An Affair to Remember,2003,\N,CW,8.1,388,71
+tt0588121,tt0238784,3,3,Gilmore Girls,Application Anxiety,2002,\N,CW,8.1,425,46
+tt0588122,tt0238784,2,18,Gilmore Girls,Back in the Saddle Again,2002,\N,CW,8.2,423,39
+tt0588123,tt0238784,4,1,Gilmore Girls,Ballrooms and Biscotti,2003,\N,CW,8.2,409,66
+tt0588124,tt0238784,5,21,Gilmore Girls,Blame Booze and Melville,2005,\N,CW,8.2,366,108
+tt0588125,tt0238784,5,19,Gilmore Girls,But I'm a Gilmore!,2005,\N,CW,8.5,404,106
+tt0588126,tt0238784,5,10,Gilmore Girls,But Not as Cute as Pushkin,2004,\N,CW,8.5,411,97
+tt0588127,tt0238784,4,4,Gilmore Girls,Chicken or Beef?,2003,\N,CW,8.2,394,69
+tt0588128,tt0238784,1,15,Gilmore Girls,Christopher Returns,2001,\N,CW,8.4,521,15
+tt0588129,tt0238784,1,5,Gilmore Girls,Cinnamon's Wake,2000,\N,CW,8.1,598,5
+tt0588130,tt0238784,5,12,Gilmore Girls,Come Home,2005,\N,CW,8.2,366,99
+tt0588131,tt0238784,1,13,Gilmore Girls,Concert Interruptus,2001,\N,CW,8.3,532,13
+tt0588132,tt0238784,2,17,Gilmore Girls,Dead Uncles and Vegetables,2002,\N,CW,8.3,437,38
+tt0588133,tt0238784,3,13,Gilmore Girls,Dear Emily and Richard,2003,\N,CW,8.7,566,56
+tt0588134,tt0238784,4,8,Gilmore Girls,"Die, Jerk",2003,\N,CW,7.9,388,73
+tt0588135,tt0238784,1,12,Gilmore Girls,Double Date,2001,\N,CW,8.1,527,12
+tt0588136,tt0238784,3,5,Gilmore Girls,Eight O'Clock at the Oasis,2002,\N,CW,8.1,434,48
+tt0588137,tt0238784,5,9,Gilmore Girls,Emily Says Hello,2004,\N,CW,8.1,364,96
+tt0588138,tt0238784,1,19,Gilmore Girls,Emily in Wonderland,2001,\N,CW,8.3,495,19
+tt0588139,tt0238784,3,15,Gilmore Girls,Face-Off,2003,\N,CW,8.2,411,58
+tt0588140,tt0238784,6,2,Gilmore Girls,Fight Face,2005,\N,CW,7.8,369,111
+tt0588141,tt0238784,1,10,Gilmore Girls,Forgiveness and Stuff,2000,\N,CW,8.5,561,10
+tt0588142,tt0238784,6,13,Gilmore Girls,Friday Night's Alright for Fighting,2006,\N,CW,9.2,640,122
+tt0588143,tt0238784,4,17,Gilmore Girls,"Girls in Bikinis, Boys Doin' the Twist",2004,\N,CW,8.3,421,82
+tt0588144,tt0238784,2,2,Gilmore Girls,Hammers and Veils,2001,\N,CW,8.2,472,23
+tt0588145,tt0238784,3,18,Gilmore Girls,"Happy Birthday, Baby",2003,\N,CW,8.2,406,61
+tt0588146,tt0238784,6,10,Gilmore Girls,He's Slippin' 'Em Bread... Dig?,2005,\N,CW,7.8,352,119
+tt0588147,tt0238784,2,20,Gilmore Girls,Help Wanted,2002,\N,CW,8.2,426,41
+tt0588148,tt0238784,3,21,Gilmore Girls,Here Comes the Son,2003,\N,CW,8.1,424,64
+tt0588149,tt0238784,5,20,Gilmore Girls,How Many Kropogs to Cape Cod?,2005,\N,CW,7.9,356,107
+tt0588150,tt0238784,2,22,Gilmore Girls,I Can't Get Started,2002,\N,CW,8.9,508,43
+tt0588151,tt0238784,3,11,Gilmore Girls,I Solemnly Swear,2003,\N,CW,7.9,395,54
+tt0588152,tt0238784,4,11,Gilmore Girls,In the Clamor and the Clangor,2004,\N,CW,8.4,401,76
+tt0588153,tt0238784,2,14,Gilmore Girls,It Should've Been Lorelai,2002,\N,CW,8.1,424,35
+tt0588154,tt0238784,5,15,Gilmore Girls,Jews and Chinese Food,2005,\N,CW,8.3,392,102
+tt0588155,tt0238784,6,12,Gilmore Girls,Just Like Gwen and Gavin,2006,\N,CW,8.0,358,121
+tt0588156,tt0238784,3,19,Gilmore Girls,Keg! Max!,2003,\N,CW,8.5,438,62
+tt0588157,tt0238784,1,3,Gilmore Girls,Kill Me Now,2000,\N,CW,8.1,641,3
+tt0588158,tt0238784,1,7,Gilmore Girls,Kiss and Tell,2000,\N,CW,8.6,603,7
+tt0588159,tt0238784,4,21,Gilmore Girls,"Last Week Fights, This Week Tights",2004,\N,CW,9.0,525,86
+tt0588160,tt0238784,6,8,Gilmore Girls,Let Me Hear Your Balalaikas Ringing Out,2005,\N,CW,8.7,434,117
+tt0588161,tt0238784,3,8,Gilmore Girls,Let the Games Begin,2002,\N,CW,8.6,455,51
+tt0588162,tt0238784,2,7,Gilmore Girls,"Like Mother, Like Daughter",2001,\N,CW,8.5,476,28
+tt0588163,tt0238784,3,12,Gilmore Girls,Lorelai Out of Water,2003,\N,CW,7.9,401,55
+tt0588164,tt0238784,2,21,Gilmore Girls,Lorelai's Graduation Day,2002,\N,CW,8.8,493,42
+tt0588165,tt0238784,2,15,Gilmore Girls,Lost and Found,2002,\N,CW,8.3,431,36
+tt0588166,tt0238784,1,8,Gilmore Girls,Love and War and Snow,2000,\N,CW,8.3,562,8
+tt0588167,tt0238784,1,21,Gilmore Girls,"Love, Daisies and Troubadours",2001,\N,CW,8.8,563,21
+tt0588168,tt0238784,4,20,Gilmore Girls,Luke Can See Her Face,2004,\N,CW,8.8,471,85
+tt0588169,tt0238784,4,13,Gilmore Girls,Nag Hammadi Is Where They Found the Gnostic Gospel,2004,\N,CW,8.4,404,78
+tt0588170,tt0238784,6,1,Gilmore Girls,New and Improved Lorelai,2005,\N,CW,8.0,387,110
+tt0588171,tt0238784,2,5,Gilmore Girls,Nick & Nora/Sid & Nancy,2001,\N,CW,8.4,502,26
+tt0588172,tt0238784,5,6,Gilmore Girls,"Norman Mailer, I'm Pregnant!",2004,\N,CW,8.1,367,93
+tt0588173,tt0238784,3,4,Gilmore Girls,One's Got Class and the Other One Dyes,2002,\N,CW,8.2,423,47
+tt0588174,tt0238784,1,20,Gilmore Girls,P.S. I Lo...,2001,\N,CW,8.3,486,20
+tt0588175,tt0238784,1,11,Gilmore Girls,Paris Is Burning,2001,\N,CW,8.0,529,11
+tt0588176,tt0238784,1,1,Gilmore Girls,Pilot,2000,\N,CW,8.4,952,1
+tt0588177,tt0238784,2,6,Gilmore Girls,Presenting Lorelai Gilmore,2001,\N,CW,8.4,469,27
+tt0588178,tt0238784,5,17,Gilmore Girls,Pulp Friction,2005,\N,CW,8.3,380,104
+tt0588179,tt0238784,4,22,Gilmore Girls,Raincoats and Recipes,2004,\N,CW,9.3,676,87
+tt0588180,tt0238784,2,3,Gilmore Girls,Red Light on the Wedding Night,2001,\N,CW,8.2,454,24
+tt0588181,tt0238784,2,12,Gilmore Girls,Richard in Stars Hollow,2002,\N,CW,8.2,447,33
+tt0588182,tt0238784,1,6,Gilmore Girls,Rory's Birthday Parties,2000,\N,CW,8.7,626,6
+tt0588183,tt0238784,1,9,Gilmore Girls,Rory's Dance,2000,\N,CW,8.9,643,9
+tt0588184,tt0238784,2,9,Gilmore Girls,"Run Away, Little Boy",2001,\N,CW,8.2,470,30
+tt0588185,tt0238784,2,1,Gilmore Girls,"Sadie, Sadie",2001,\N,CW,8.4,489,22
+tt0588186,tt0238784,5,1,Gilmore Girls,Say Goodbye to Daisy Miller,2004,\N,CW,8.4,414,88
+tt0588187,tt0238784,3,20,Gilmore Girls,"Say Goodnight, Gracie",2003,\N,CW,8.3,411,63
+tt0588188,tt0238784,5,14,Gilmore Girls,Say Something,2005,\N,CW,8.8,407,101
+tt0588189,tt0238784,4,15,Gilmore Girls,Scene in a Mall,2004,\N,CW,8.5,390,80
+tt0588190,tt0238784,2,11,Gilmore Girls,Secrets and Loans,2002,\N,CW,7.9,445,32
+tt0588191,tt0238784,5,16,Gilmore Girls,So... Good Talk,2005,\N,CW,8.8,400,103
+tt0588192,tt0238784,1,16,Gilmore Girls,Star-Crossed Lovers and Other Strangers,2001,\N,CW,8.4,514,16
+tt0588193,tt0238784,3,14,Gilmore Girls,Swan Song,2003,\N,CW,8.2,426,57
+tt0588194,tt0238784,3,6,Gilmore Girls,Take the Deviled Eggs...,2002,\N,CW,8.1,423,49
+tt0588195,tt0238784,2,19,Gilmore Girls,Teach Me Tonight,2002,\N,CW,8.7,486,40
+tt0588196,tt0238784,4,9,Gilmore Girls,Ted Koppel's Big Night Out,2003,\N,CW,8.2,387,74
+tt0588197,tt0238784,1,14,Gilmore Girls,That Damn Donna Reed,2001,\N,CW,8.2,521,14
+tt0588198,tt0238784,3,10,Gilmore Girls,"That'll Do, Pig",2003,\N,CW,8.3,406,53
+tt0588199,tt0238784,3,16,Gilmore Girls,The Big One,2003,\N,CW,8.7,443,59
+tt0588200,tt0238784,2,10,Gilmore Girls,The Bracebridge Dinner,2001,\N,CW,8.8,528,31
+tt0588201,tt0238784,1,17,Gilmore Girls,The Breakup: Part 2,2001,\N,CW,8.4,506,17
+tt0588202,tt0238784,1,4,Gilmore Girls,The Deer Hunters,2000,\N,CW,8.2,612,4
+tt0588203,tt0238784,4,7,Gilmore Girls,The Festival of Living Art,2003,\N,CW,8.4,432,72
+tt0588204,tt0238784,4,5,Gilmore Girls,The Fundamental Things Apply,2003,\N,CW,8.2,386,70
+tt0588205,tt0238784,3,2,Gilmore Girls,Haunted Leg,2002,\N,CW,8.3,413,45
+tt0588206,tt0238784,4,3,Gilmore Girls,"The Hobbit, the Sofa, and Digger Stiles",2003,\N,CW,8.2,396,68
+tt0588207,tt0238784,4,14,Gilmore Girls,The Incredible Sinking Lorelais,2004,\N,CW,8.7,450,79
+tt0588208,tt0238784,2,8,Gilmore Girls,The Ins and Outs of Inns,2001,\N,CW,8.2,456,29
+tt0588209,tt0238784,1,2,Gilmore Girls,The Lorelais' First Day at Chilton,2000,\N,CW,8.3,724,2
+tt0588210,tt0238784,4,2,Gilmore Girls,The Lorelais' First Day at Yale,2003,\N,CW,8.8,478,67
+tt0588211,tt0238784,4,10,Gilmore Girls,The Nanny and the Professor,2004,\N,CW,8.1,372,75
+tt0588212,tt0238784,5,8,Gilmore Girls,The Party's Over,2004,\N,CW,8.2,399,95
+tt0588213,tt0238784,6,11,Gilmore Girls,The Perfect Dress,2006,\N,CW,8.1,351,120
+tt0588214,tt0238784,6,9,Gilmore Girls,The Prodigal Daughter Returns,2005,\N,CW,8.6,409,118
+tt0588215,tt0238784,4,16,Gilmore Girls,The Reigning Lorelai,2004,\N,CW,8.5,404,81
+tt0588216,tt0238784,2,4,Gilmore Girls,The Road Trip to Harvard,2001,\N,CW,8.4,484,25
+tt0588217,tt0238784,1,18,Gilmore Girls,The Third Lorelai,2001,\N,CW,8.2,495,18
+tt0588218,tt0238784,6,3,Gilmore Girls,The UnGraduate,2005,\N,CW,7.8,354,112
+tt0588219,tt0238784,2,16,Gilmore Girls,There's the Rub,2002,\N,CW,8.6,473,37
+tt0588220,tt0238784,3,22,Gilmore Girls,"Those Are Strings, Pinocchio",2003,\N,CW,9.1,524,65
+tt0588221,tt0238784,3,7,Gilmore Girls,"They Shoot Gilmores, Don't They?",2002,\N,CW,9.1,628,50
+tt0588222,tt0238784,3,1,Gilmore Girls,Those Lazy-Hazy-Crazy Days,2002,\N,CW,8.3,446,44
+tt0588223,tt0238784,4,18,Gilmore Girls,"Tick, Tick, Tick, Boom!",2004,\N,CW,8.4,388,83
+tt0588224,tt0238784,5,4,Gilmore Girls,"Tippecanoe and Taylor, Too",2004,\N,CW,8.1,371,91
+tt0588225,tt0238784,5,18,Gilmore Girls,To Live and Let Diorama,2005,\N,CW,8.0,367,105
+tt0588226,tt0238784,6,7,Gilmore Girls,Twenty-One Is the Loneliest Number,2005,\N,CW,8.2,384,116
+tt0588227,tt0238784,5,5,Gilmore Girls,We Got Us a Pippi Virgin,2004,\N,CW,8.1,372,92
+tt0588228,tt0238784,6,5,Gilmore Girls,We've Got Magic to Do,2005,\N,CW,8.6,406,114
+tt0588229,tt0238784,5,13,Gilmore Girls,Wedding Bell Blues,2005,\N,CW,8.9,477,100
+tt0588230,tt0238784,6,6,Gilmore Girls,Welcome to the Dollhouse,2005,\N,CW,8.1,361,115
+tt0588231,tt0238784,5,11,Gilmore Girls,Women of Questionable Morals,2005,\N,CW,8.0,367,98
+tt0588232,tt0238784,5,3,Gilmore Girls,Written in the Stars,2004,\N,CW,8.6,449,90
+tt0588233,tt0238784,5,7,Gilmore Girls,"You Jump, I Jump, Jack",2004,\N,CW,8.8,533,94
+tt0757486,tt0238784,6,15,Gilmore Girls,A Vineyard Valentine,2006,\N,CW,7.9,370,124
+tt0763165,tt0238784,6,14,Gilmore Girls,You've Been Gilmored,2006,\N,CW,8.2,355,123
+tt0765894,tt0238784,6,18,Gilmore Girls,The Real Paul Anka,2006,\N,CW,8.2,394,127
+tt0766823,tt0238784,6,16,Gilmore Girls,Bridesmaids Revisited,2006,\N,CW,7.9,366,125
+tt0766824,tt0238784,6,17,Gilmore Girls,"I'm OK, You're OK",2006,\N,CW,7.9,347,126
+tt0776994,tt0238784,6,20,Gilmore Girls,Super Cool Party People,2006,\N,CW,8.1,378,129
+tt0778246,tt0238784,6,19,Gilmore Girls,I Get a Sidekick Out of You,2006,\N,CW,8.5,384,128
+tt0789988,tt0238784,6,22,Gilmore Girls,Partings,2006,\N,CW,8.4,478,131
+tt0794759,tt0238784,6,21,Gilmore Girls,Driving Miss Gilmore,2006,\N,CW,8.2,369,130
+tt0824954,tt0238784,7,1,Gilmore Girls,The Long Morrow,2006,\N,CW,8.0,433,132
+tt0841271,tt0238784,7,2,Gilmore Girls,"That's What You Get, Folks, for Makin' Whoopee",2006,\N,CW,7.7,357,133
+tt0847649,tt0238784,7,4,Gilmore Girls,"'S Wonderful, 'S Marvelous",2006,\N,CW,7.8,362,135
+tt0847650,tt0238784,7,3,Gilmore Girls,Lorelai's First Cotillion,2006,\N,CW,7.7,351,134
+tt0861407,tt0238784,7,5,Gilmore Girls,The Great Stink,2006,\N,CW,7.6,355,136
+tt0868143,tt0238784,7,6,Gilmore Girls,"Go, Bulldogs!",2006,\N,CW,7.4,349,137
+tt0868144,tt0238784,7,7,Gilmore Girls,French Twist,2006,\N,CW,6.9,395,138
+tt0885841,tt0238784,7,8,Gilmore Girls,Introducing Lorelai Planetarium,2006,\N,CW,7.5,344,139
+tt0888170,tt0238784,7,9,Gilmore Girls,"Knit, People, Knit!",2006,\N,CW,7.6,356,140
+tt0894094,tt0238784,7,10,Gilmore Girls,Merry Fisticuffs,2006,\N,CW,7.8,357,141
+tt0901985,tt0238784,7,11,Gilmore Girls,Santa's Secret Stuff,2007,\N,CW,7.7,355,142
+tt0921218,tt0238784,7,12,Gilmore Girls,To Whom It May Concern,2007,\N,CW,8.2,373,143
+tt0949011,tt0238784,7,15,Gilmore Girls,"I'm a Kayak, Hear Me Roar",2007,\N,CW,8.1,339,146
+tt0957949,tt0238784,7,14,Gilmore Girls,"Farewell, My Pet",2007,\N,CW,7.9,339,145
+tt0957950,tt0238784,7,13,Gilmore Girls,I'd Rather Be in Philadelphia,2007,\N,CW,8.2,359,144
+tt0959778,tt0238784,7,16,Gilmore Girls,Will You Be My Lorelai Gilmore?,2007,\N,CW,8.2,362,147
+tt0962360,tt0238784,7,18,Gilmore Girls,Hay Bale Maze,2007,\N,CW,8.1,359,149
+tt0976505,tt0238784,7,17,Gilmore Girls,Gilmore Girls Only,2007,\N,CW,7.9,357,148
+tt0993249,tt0238784,7,19,Gilmore Girls,It's Just Like Riding a Bike,2007,\N,CW,8.2,345,150
+tt1001862,tt0238784,7,22,Gilmore Girls,Bon Voyage,2007,\N,CW,9.2,767,153
+tt1001863,tt0238784,7,20,Gilmore Girls,Lorelai? Lorelai?,2007,\N,CW,8.7,425,151
+tt1009614,tt0238784,7,21,Gilmore Girls,Unto the Breach,2007,\N,CW,8.3,378,152
