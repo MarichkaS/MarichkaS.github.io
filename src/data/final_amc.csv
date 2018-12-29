@@ -1,0 +1,462 @@
+tconst,parentTconst,Season Number,Episode Number,TV-show,Episode Title,Season start year,endYear,channel,IMDB Rating,Number of votes,episodeID
+tt0959621,tt0903747,1,1,Breaking Bad,Pilot,2008,\N,AMC,8.9,18137
+tt1054724,tt0903747,1,2,Breaking Bad,Cat's in the Bag...,2008,\N,AMC,8.7,12612
+tt1054725,tt0903747,1,3,Breaking Bad,...And the Bag's in the River,2008,\N,AMC,8.7,12223
+tt1054726,tt0903747,1,4,Breaking Bad,Cancer Man,2008,\N,AMC,8.2,11823
+tt1054727,tt0903747,1,5,Breaking Bad,Gray Matter,2008,\N,AMC,8.3,11560
+tt1054728,tt0903747,1,6,Breaking Bad,Crazy Handful of Nothin',2008,\N,AMC,9.2,13419
+tt1054729,tt0903747,1,7,Breaking Bad,A No-Rough-Stuff-Type Deal,2008,\N,AMC,8.8,11846
+tt1232244,tt0903747,2,1,Breaking Bad,Seven Thirty-Seven,2009,\N,AMC,8.7,10550
+tt1232245,tt0903747,2,10,Breaking Bad,Over,2009,\N,AMC,8.6,9807
+tt1232246,tt0903747,2,11,Breaking Bad,Mandala,2009,\N,AMC,8.8,10245
+tt1232247,tt0903747,2,12,Breaking Bad,Phoenix,2009,\N,AMC,9.1,11531
+tt1232248,tt0903747,2,13,Breaking Bad,ABQ,2009,\N,AMC,9.1,11605
+tt1232249,tt0903747,2,2,Breaking Bad,Grilled,2009,\N,AMC,9.2,12524
+tt1232250,tt0903747,2,3,Breaking Bad,Bit by a Dead Bee,2009,\N,AMC,8.3,10242
+tt1232251,tt0903747,2,4,Breaking Bad,Down,2009,\N,AMC,8.1,10358
+tt1232252,tt0903747,2,5,Breaking Bad,Breakage,2009,\N,AMC,8.3,10070
+tt1232253,tt0903747,2,6,Breaking Bad,Peekaboo,2009,\N,AMC,8.8,11241
+tt1232254,tt0903747,2,7,Breaking Bad,Negro Y Azul,2009,\N,AMC,8.7,10010
+tt1232255,tt0903747,2,8,Breaking Bad,Better Call Saul,2009,\N,AMC,9.0,11823
+tt1232256,tt0903747,2,9,Breaking Bad,4 Days Out,2009,\N,AMC,8.9,11616
+tt1528116,tt0903747,3,1,Breaking Bad,No Más,2010,\N,AMC,8.6,9770
+tt1615186,tt0903747,3,2,Breaking Bad,Caballo sin Nombre,2010,\N,AMC,8.7,9416
+tt1615187,tt0903747,3,3,Breaking Bad,I.F.T.,2010,\N,AMC,8.4,9445
+tt1615550,tt0903747,3,10,Breaking Bad,Fly,2010,\N,AMC,7.6,16488
+tt1615551,tt0903747,3,11,Breaking Bad,Abiquiu,2010,\N,AMC,8.5,9347
+tt1615552,tt0903747,3,12,Breaking Bad,Half Measures,2010,\N,AMC,9.4,13381
+tt1615553,tt0903747,3,13,Breaking Bad,Full Measure,2010,\N,AMC,9.5,15156
+tt1615554,tt0903747,3,4,Breaking Bad,Green Light,2010,\N,AMC,8.1,9640
+tt1615555,tt0903747,3,5,Breaking Bad,Más,2010,\N,AMC,8.7,9125
+tt1615556,tt0903747,3,6,Breaking Bad,Sunset,2010,\N,AMC,9.2,11153
+tt1615557,tt0903747,3,8,Breaking Bad,I See You,2010,\N,AMC,8.8,9540
+tt1615558,tt0903747,3,9,Breaking Bad,Kafkaesque,2010,\N,AMC,8.4,9452
+tt1615944,tt0903747,3,7,Breaking Bad,One Minute,2010,\N,AMC,9.5,13963
+tt1683084,tt0903747,4,1,Breaking Bad,Box Cutter,2011,\N,AMC,9.1,12232
+tt1683085,tt0903747,4,10,Breaking Bad,Salud,2011,\N,AMC,9.5,14410
+tt1683086,tt0903747,4,11,Breaking Bad,Crawl Space,2011,\N,AMC,9.5,16594
+tt1683087,tt0903747,4,12,Breaking Bad,End Times,2011,\N,AMC,9.4,12707
+tt1683088,tt0903747,4,13,Breaking Bad,Face Off,2011,\N,AMC,9.8,31439
+tt1683089,tt0903747,4,2,Breaking Bad,Thirty-Eight Snub,2011,\N,AMC,8.2,9869
+tt1683090,tt0903747,4,3,Breaking Bad,Open House,2011,\N,AMC,8.0,9907
+tt1683091,tt0903747,4,4,Breaking Bad,Bullet Points,2011,\N,AMC,8.7,9253
+tt1683092,tt0903747,4,5,Breaking Bad,Shotgun,2011,\N,AMC,8.7,9277
+tt1683093,tt0903747,4,6,Breaking Bad,Cornered,2011,\N,AMC,8.5,9409
+tt1683094,tt0903747,4,7,Breaking Bad,Problem Dog,2011,\N,AMC,8.8,9897
+tt1683095,tt0903747,4,8,Breaking Bad,Hermanos,2011,\N,AMC,9.1,11195
+tt1683096,tt0903747,4,9,Breaking Bad,Bug,2011,\N,AMC,8.8,9979
+tt2081647,tt0903747,5,1,Breaking Bad,Live Free or Die,2012,\N,AMC,9.2,14565
+tt2301443,tt0903747,5,10,Breaking Bad,Buried,2013,\N,AMC,9.0,13585
+tt2301445,tt0903747,5,11,Breaking Bad,Confessions,2013,\N,AMC,9.5,17110
+tt2301447,tt0903747,5,12,Breaking Bad,Rabid Dog,2013,\N,AMC,8.9,14155
+tt2301449,tt0903747,5,13,Breaking Bad,To'hajiilee,2013,\N,AMC,9.7,24809
+tt2301451,tt0903747,5,14,Breaking Bad,Ozymandias,2013,\N,AMC,9.9,96397
+tt2301453,tt0903747,5,15,Breaking Bad,Granite State,2013,\N,AMC,9.6,24765
+tt2301455,tt0903747,5,16,Breaking Bad,Felina,2013,\N,AMC,9.9,67087
+tt2301457,tt0903747,5,2,Breaking Bad,Madrigal,2012,\N,AMC,8.8,11947
+tt2301459,tt0903747,5,3,Breaking Bad,Hazard Pay,2012,\N,AMC,8.8,11493
+tt2301461,tt0903747,5,4,Breaking Bad,Fifty-One,2012,\N,AMC,8.8,11570
+tt2301463,tt0903747,5,5,Breaking Bad,Dead Freight,2012,\N,AMC,9.5,17913
+tt2301465,tt0903747,5,6,Breaking Bad,Buyout,2012,\N,AMC,8.8,11918
+tt2301467,tt0903747,5,7,Breaking Bad,Say My Name,2012,\N,AMC,9.4,15401
+tt2301469,tt0903747,5,8,Breaking Bad,Gliding Over All,2012,\N,AMC,9.5,16354
+tt2301471,tt0903747,5,9,Breaking Bad,Blood Money,2013,\N,AMC,9.4,15970
+tt1040713,tt0804503,1,4,Mad Men,New Amsterdam,2007,\N,AMC,8.0,1880
+tt1042049,tt0804503,1,6,Mad Men,Babylon,2007,\N,AMC,8.0,1811
+tt1049715,tt0804503,1,2,Mad Men,Ladies Room,2007,\N,AMC,7.6,2181
+tt1049716,tt0804503,1,3,Mad Men,Marriage of Figaro,2007,\N,AMC,7.7,2011
+tt1050979,tt0804503,1,7,Mad Men,Red in the Face,2007,\N,AMC,8.1,1734
+tt1059578,tt0804503,1,1,Mad Men,Smoke Gets in Your Eyes,2007,\N,AMC,8.2,2977
+tt1094472,tt0804503,1,10,Mad Men,Long Weekend,2007,\N,AMC,8.3,1642
+tt1097127,tt0804503,1,5,Mad Men,5G,2007,\N,AMC,8.2,1820
+tt1097128,tt0804503,1,8,Mad Men,The Hobo Code,2007,\N,AMC,8.4,1804
+tt1097298,tt0804503,1,9,Mad Men,Shoot,2007,\N,AMC,8.3,1704
+tt1102103,tt0804503,1,12,Mad Men,Nixon vs. Kennedy,2007,\N,AMC,9.0,1909
+tt1105057,tt0804503,1,13,Mad Men,The Wheel,2007,\N,AMC,9.0,2068
+tt1108366,tt0804503,1,11,Mad Men,Indian Summer,2007,\N,AMC,8.2,1591
+tt1118051,tt0804503,2,1,Mad Men,For Those Who Think Young,2008,\N,AMC,7.8,1506
+tt1118052,tt0804503,2,10,Mad Men,The Inheritance,2008,\N,AMC,8.0,1334
+tt1118053,tt0804503,2,11,Mad Men,The Jet Set,2008,\N,AMC,8.4,1520
+tt1118054,tt0804503,2,12,Mad Men,The Mountain King,2008,\N,AMC,8.6,1419
+tt1118055,tt0804503,2,13,Mad Men,Meditations in an Emergency,2008,\N,AMC,9.0,1561
+tt1118056,tt0804503,2,2,Mad Men,Flight 1,2008,\N,AMC,8.0,1444
+tt1118057,tt0804503,2,3,Mad Men,The Benefactor,2008,\N,AMC,8.0,1428
+tt1118058,tt0804503,2,4,Mad Men,Three Sundays,2008,\N,AMC,8.2,1421
+tt1118059,tt0804503,2,5,Mad Men,The New Girl,2008,\N,AMC,8.4,1440
+tt1118060,tt0804503,2,6,Mad Men,Maidenform,2008,\N,AMC,8.1,1369
+tt1118061,tt0804503,2,7,Mad Men,The Gold Violin,2008,\N,AMC,8.5,1411
+tt1118062,tt0804503,2,8,Mad Men,A Night to Remember,2008,\N,AMC,8.4,1390
+tt1118063,tt0804503,2,9,Mad Men,Six Month Leave,2008,\N,AMC,8.6,1389
+tt1439792,tt0804503,3,1,Mad Men,Out of Town,2009,\N,AMC,8.3,1380
+tt1449612,tt0804503,3,2,Mad Men,Love Among the Ruins,2009,\N,AMC,7.9,1268
+tt1472778,tt0804503,3,7,Mad Men,Seven Twenty Three,2009,\N,AMC,8.5,1304
+tt1484249,tt0804503,3,10,Mad Men,The Color Blue,2009,\N,AMC,8.4,1261
+tt1484250,tt0804503,3,11,Mad Men,The Gypsy and the Hobo,2009,\N,AMC,9.2,1660
+tt1484251,tt0804503,3,12,Mad Men,The Grown-Ups,2009,\N,AMC,8.9,1458
+tt1484414,tt0804503,3,13,Mad Men,Shut the Door. Have a Seat,2009,\N,AMC,9.6,2670
+tt1484415,tt0804503,3,3,Mad Men,My Old Kentucky Home,2009,\N,AMC,8.2,1348
+tt1484416,tt0804503,3,4,Mad Men,The Arrangements,2009,\N,AMC,8.2,1254
+tt1484417,tt0804503,3,5,Mad Men,The Fog,2009,\N,AMC,8.1,1267
+tt1484435,tt0804503,3,6,Mad Men,Guy Walks Into an Advertising Agency,2009,\N,AMC,9.1,1720
+tt1484662,tt0804503,3,8,Mad Men,Souvenir,2009,\N,AMC,8.1,1244
+tt1484663,tt0804503,3,9,Mad Men,Wee Small Hours,2009,\N,AMC,8.2,1218
+tt1615656,tt0804503,4,1,Mad Men,Public Relations,2010,\N,AMC,8.7,1449
+tt1615657,tt0804503,4,10,Mad Men,Hands and Knees,2010,\N,AMC,8.8,1243
+tt1615658,tt0804503,4,11,Mad Men,Chinese Wall,2010,\N,AMC,8.5,1162
+tt1615659,tt0804503,4,12,Mad Men,Blowing Smoke,2010,\N,AMC,8.9,1277
+tt1615660,tt0804503,4,13,Mad Men,Tomorrowland,2010,\N,AMC,9.0,1516
+tt1615661,tt0804503,4,2,Mad Men,Christmas Comes But Once a Year,2010,\N,AMC,8.3,1259
+tt1615662,tt0804503,4,3,Mad Men,The Good News,2010,\N,AMC,8.7,1339
+tt1615663,tt0804503,4,4,Mad Men,The Rejected,2010,\N,AMC,8.4,1247
+tt1615664,tt0804503,4,5,Mad Men,The Chrysanthemum and the Sword,2010,\N,AMC,8.7,1298
+tt1615665,tt0804503,4,6,Mad Men,Waldorf Stories,2010,\N,AMC,8.6,1318
+tt1615666,tt0804503,4,7,Mad Men,The Suitcase,2010,\N,AMC,9.7,3358
+tt1615667,tt0804503,4,8,Mad Men,The Summer Man,2010,\N,AMC,8.7,1354
+tt1615668,tt0804503,4,9,Mad Men,The Beautiful Girls,2010,\N,AMC,8.8,1356
+tt2048448,tt0804503,5,1,Mad Men,"A Little Kiss, Part 1",2012,\N,AMC,8.6,1536
+tt2049164,tt0804503,5,10,Mad Men,Christmas Waltz,2012,\N,AMC,8.3,1211
+tt2049165,tt0804503,5,11,Mad Men,The Other Woman,2012,\N,AMC,9.4,1924
+tt2049166,tt0804503,5,12,Mad Men,Commissions and Fees,2012,\N,AMC,9.4,1756
+tt2049167,tt0804503,5,13,Mad Men,The Phantom,2012,\N,AMC,8.6,1368
+tt2049168,tt0804503,5,2,Mad Men,"A Little Kiss, Part 2",2012,\N,AMC,8.6,1308
+tt2049169,tt0804503,5,3,Mad Men,Tea Leaves,2012,\N,AMC,8.0,1246
+tt2049170,tt0804503,5,4,Mad Men,Mystery Date,2012,\N,AMC,8.6,1355
+tt2049171,tt0804503,5,5,Mad Men,Signal 30,2012,\N,AMC,9.0,1612
+tt2049172,tt0804503,5,6,Mad Men,Far Away Places,2012,\N,AMC,9.1,1776
+tt2049173,tt0804503,5,7,Mad Men,At the Codfish Ball,2012,\N,AMC,8.7,1335
+tt2049174,tt0804503,5,8,Mad Men,Lady Lazarus,2012,\N,AMC,8.3,1233
+tt2049175,tt0804503,5,9,Mad Men,Dark Shadows,2012,\N,AMC,8.1,1157
+tt2470504,tt0804503,6,1,Mad Men,"The Doorway, Part 1",2013,\N,AMC,7.7,1388
+tt2551222,tt0804503,6,3,Mad Men,Collaborators,2013,\N,AMC,8.0,1208
+tt2560864,tt0804503,6,4,Mad Men,To Have and to Hold,2013,\N,AMC,8.2,1166
+tt2649564,tt0804503,6,2,Mad Men,"The Doorway, Part 2",2013,\N,AMC,7.9,1254
+tt2663614,tt0804503,6,7,Mad Men,Man with a Plan,2013,\N,AMC,8.1,1150
+tt2717848,tt0804503,6,5,Mad Men,The Flood,2013,\N,AMC,8.3,1219
+tt2717850,tt0804503,6,6,Mad Men,For Immediate Release,2013,\N,AMC,8.9,1406
+tt2882248,tt0804503,6,9,Mad Men,The Better Half,2013,\N,AMC,8.5,1220
+tt2882250,tt0804503,6,8,Mad Men,The Crash,2013,\N,AMC,8.7,1448
+tt2939964,tt0804503,6,11,Mad Men,Favors,2013,\N,AMC,8.8,1233
+tt2939966,tt0804503,6,10,Mad Men,A Tale of Two Cities,2013,\N,AMC,8.2,1109
+tt2939968,tt0804503,6,13,Mad Men,In Care Of,2013,\N,AMC,9.2,1505
+tt2939970,tt0804503,6,12,Mad Men,The Quality of Mercy,2013,\N,AMC,8.6,1133
+tt3029774,tt0804503,7,1,Mad Men,Time Zones,2014,\N,AMC,8.1,1345
+tt3239886,tt0804503,7,8,Mad Men,Severance,2015,\N,AMC,8.3,1340
+tt3669680,tt0804503,7,2,Mad Men,A Day's Work,2014,\N,AMC,8.5,1231
+tt3678086,tt0804503,7,3,Mad Men,Field Trip,2014,\N,AMC,8.7,1274
+tt3680402,tt0804503,7,4,Mad Men,The Monolith,2014,\N,AMC,8.6,1167
+tt3707054,tt0804503,7,11,Mad Men,Time & Life,2015,\N,AMC,9.0,1319
+tt3709284,tt0804503,7,5,Mad Men,The Runaways,2014,\N,AMC,8.6,1234
+tt3709286,tt0804503,7,6,Mad Men,The Strategy,2014,\N,AMC,9.0,1386
+tt3740788,tt0804503,7,7,Mad Men,Waterloo,2014,\N,AMC,9.5,2029
+tt3756834,tt0804503,7,14,Mad Men,Person to Person,2015,\N,AMC,9.3,2628
+tt3783560,tt0804503,7,13,Mad Men,The Milk and Honey Route,2015,\N,AMC,9.2,1560
+tt3868862,tt0804503,7,9,Mad Men,New Business,2015,\N,AMC,8.0,1200
+tt3908430,tt0804503,7,10,Mad Men,The Forecast,2015,\N,AMC,8.5,1224
+tt3908436,tt0804503,7,12,Mad Men,Lost Horizon,2015,\N,AMC,9.1,1401
+tt3464768,tt3032476,1,1,Better Call Saul,Uno,2015,\N,AMC,8.7,10416
+tt3824148,tt3032476,2,1,Better Call Saul,Switch,2016,\N,AMC,8.5,4976
+tt3857028,tt3032476,1,2,Better Call Saul,Mijo,2015,\N,AMC,9.1,9569
+tt3858672,tt3032476,1,3,Better Call Saul,Nacho,2015,\N,AMC,8.9,7945
+tt3864892,tt3032476,1,4,Better Call Saul,Hero,2015,\N,AMC,8.7,6840
+tt3866650,tt3032476,1,6,Better Call Saul,Five-O,2015,\N,AMC,9.5,10595
+tt3876380,tt3032476,1,5,Better Call Saul,Alpine Shepherd Boy,2015,\N,AMC,8.3,6352
+tt3884286,tt3032476,1,7,Better Call Saul,Bingo,2015,\N,AMC,8.9,5949
+tt3895284,tt3032476,1,8,Better Call Saul,RICO,2015,\N,AMC,8.9,5812
+tt3895286,tt3032476,1,9,Better Call Saul,Pimento,2015,\N,AMC,9.5,7863
+tt3895288,tt3032476,1,10,Better Call Saul,Marco,2015,\N,AMC,8.8,6264
+tt4462674,tt3032476,2,2,Better Call Saul,Cobbler,2016,\N,AMC,8.7,4257
+tt4462676,tt3032476,2,3,Better Call Saul,Amarillo,2016,\N,AMC,8.5,3947
+tt4462678,tt3032476,2,4,Better Call Saul,Gloves Off,2016,\N,AMC,9.1,4311
+tt4462680,tt3032476,2,6,Better Call Saul,Bali Ha'i,2016,\N,AMC,8.6,3723
+tt4462682,tt3032476,2,5,Better Call Saul,Rebecca,2016,\N,AMC,8.2,3826
+tt4462684,tt3032476,2,7,Better Call Saul,Inflatable,2016,\N,AMC,8.6,3681
+tt4462686,tt3032476,2,8,Better Call Saul,Fifi,2016,\N,AMC,8.6,3656
+tt4462688,tt3032476,2,9,Better Call Saul,Nailed,2016,\N,AMC,9.4,5014
+tt4462690,tt3032476,2,10,Better Call Saul,Klick,2016,\N,AMC,9.1,4367
+tt5554490,tt3032476,3,1,Better Call Saul,Mabel,2017,\N,AMC,8.3,4305
+tt5570804,tt3032476,3,10,Better Call Saul,Lantern,2017,\N,AMC,9.2,4310
+tt5579594,tt3032476,3,2,Better Call Saul,Witness,2017,\N,AMC,9.1,4276
+tt5719532,tt3032476,3,3,Better Call Saul,Sunk Costs,2017,\N,AMC,8.6,3608
+tt5719534,tt3032476,3,4,Better Call Saul,Sabrosito,2017,\N,AMC,9.1,3969
+tt5719536,tt3032476,3,5,Better Call Saul,Chicanery,2017,\N,AMC,9.7,8326
+tt5719540,tt3032476,3,6,Better Call Saul,Off Brand,2017,\N,AMC,8.7,3565
+tt5719542,tt3032476,3,7,Better Call Saul,Expenses,2017,\N,AMC,8.5,3323
+tt5719544,tt3032476,3,9,Better Call Saul,Fall,2017,\N,AMC,9.0,3477
+tt5719546,tt3032476,3,8,Better Call Saul,Slip,2017,\N,AMC,8.7,3254
+tt7073996,tt3032476,4,1,Better Call Saul,Smoke,2018,\N,AMC,8.4,3281
+tt7073998,tt3032476,4,2,Better Call Saul,Breathe,2018,\N,AMC,8.9,3158
+tt7074002,tt3032476,4,3,Better Call Saul,Something Beautiful,2018,\N,AMC,8.7,2740
+tt7074006,tt3032476,4,4,Better Call Saul,Talk,2018,\N,AMC,8.4,2577
+tt7074010,tt3032476,4,5,Better Call Saul,Quite a Ride,2018,\N,AMC,8.8,2664
+tt7074012,tt3032476,4,6,Better Call Saul,Piñata,2018,\N,AMC,8.7,2483
+tt7074020,tt3032476,4,7,Better Call Saul,Something Stupid,2018,\N,AMC,8.6,2384
+tt7074022,tt3032476,4,8,Better Call Saul,Coushatta,2018,\N,AMC,9.0,2556
+tt7074030,tt3032476,4,10,Better Call Saul,Winner,2018,\N,AMC,9.6,3981
+tt7074032,tt3032476,4,9,Better Call Saul,Wiedersehen,2018,\N,AMC,9.2,2621
+tt2037266,tt1699748,1,10,Hell on Wheels,God of Chaos,2012,\N,AMC,8.6,543
+tt2037267,tt1699748,1,2,Hell on Wheels,Immoral Mathematics,2011,\N,AMC,8.2,696
+tt2037268,tt1699748,1,3,Hell on Wheels,A New Birth of Freedom,2011,\N,AMC,7.9,618
+tt2037269,tt1699748,1,4,Hell on Wheels,Jamais je ne t'oublierai,2011,\N,AMC,7.9,586
+tt2037270,tt1699748,1,5,Hell on Wheels,Bread and Circuses,2011,\N,AMC,8.0,579
+tt2037271,tt1699748,1,6,Hell on Wheels,"Pride, Pomp and Circumstance",2011,\N,AMC,7.9,542
+tt2037272,tt1699748,1,7,Hell on Wheels,Revelations,2011,\N,AMC,8.7,578
+tt2037273,tt1699748,1,8,Hell on Wheels,Derailed,2012,\N,AMC,8.4,541
+tt2037274,tt1699748,1,9,Hell on Wheels,Timshel,2012,\N,AMC,8.6,535
+tt2037275,tt1699748,1,1,Hell on Wheels,Pilot,2011,\N,AMC,8.1,963
+tt2159349,tt1699748,2,1,Hell on Wheels,Viva La Mexico,2012,\N,AMC,8.5,429
+tt2283732,tt1699748,2,2,Hell on Wheels,"Durant, Nebraska",2012,\N,AMC,8.4,453
+tt2283734,tt1699748,2,3,Hell on Wheels,Slaughterhouse,2012,\N,AMC,8.4,449
+tt2283736,tt1699748,2,4,Hell on Wheels,Scabs,2012,\N,AMC,8.3,430
+tt2302814,tt1699748,2,6,Hell on Wheels,Purged Away with Blood,2012,\N,AMC,8.6,443
+tt2313198,tt1699748,2,5,Hell on Wheels,The Railroad Job,2012,\N,AMC,8.8,479
+tt2385348,tt1699748,2,7,Hell on Wheels,The White Spirit,2012,\N,AMC,8.3,421
+tt2385350,tt1699748,2,8,Hell on Wheels,The Lord's Day,2012,\N,AMC,8.4,428
+tt2400638,tt1699748,2,9,Hell on Wheels,Blood Moon,2012,\N,AMC,8.7,434
+tt2400640,tt1699748,2,10,Hell on Wheels,Blood Moon Rising,2012,\N,AMC,9.0,552
+tt2579572,tt1699748,3,1,Hell on Wheels,Big Bad Wolf,2013,\N,AMC,8.5,515
+tt2913534,tt1699748,3,2,Hell on Wheels,Eminent Domain,2013,\N,AMC,8.7,450
+tt2943886,tt1699748,3,3,Hell on Wheels,Range War,2013,\N,AMC,8.4,380
+tt3060798,tt1699748,3,4,Hell on Wheels,The Game,2013,\N,AMC,8.3,376
+tt3060838,tt1699748,3,6,Hell on Wheels,One Less Mule,2013,\N,AMC,8.8,417
+tt3060840,tt1699748,3,5,Hell on Wheels,Searchers,2013,\N,AMC,8.1,374
+tt3060866,tt1699748,3,7,Hell on Wheels,Cholera,2013,\N,AMC,8.2,368
+tt3060868,tt1699748,3,8,Hell on Wheels,It Happened in Boston,2013,\N,AMC,8.2,361
+tt3060870,tt1699748,3,10,Hell on Wheels,Get Behind the Mule,2013,\N,AMC,8.5,443
+tt3060920,tt1699748,3,9,Hell on Wheels,Fathers and Sins,2013,\N,AMC,8.8,415
+tt3681074,tt1699748,4,1,Hell on Wheels,The Elusive Eden,2014,\N,AMC,8.3,425
+tt3729772,tt1699748,4,2,Hell on Wheels,Escape from the Garden,2014,\N,AMC,8.7,400
+tt3856370,tt1699748,4,5,Hell on Wheels,Life's a Mystery,2014,\N,AMC,8.7,404
+tt3858794,tt1699748,4,3,Hell on Wheels,Chicken Hill,2014,\N,AMC,8.6,382
+tt3865254,tt1699748,4,4,Hell on Wheels,Reckoning,2014,\N,AMC,8.3,376
+tt3868998,tt1699748,4,7,Hell on Wheels,Elam Ferguson,2014,\N,AMC,9.1,676
+tt3905114,tt1699748,4,6,Hell on Wheels,Bear Man,2014,\N,AMC,7.7,498
+tt3907594,tt1699748,4,8,Hell on Wheels,Under Color of Law,2014,\N,AMC,8.4,387
+tt3909986,tt1699748,4,9,Hell on Wheels,Two Trains,2014,\N,AMC,9.0,425
+tt3924260,tt1699748,4,10,Hell on Wheels,Return to Hell,2014,\N,AMC,9.0,487
+tt3954426,tt1699748,4,11,Hell on Wheels,Bleeding Kansas,2014,\N,AMC,8.7,394
+tt3971152,tt1699748,4,12,Hell on Wheels,Thirteen Steps,2014,\N,AMC,8.7,412
+tt4021086,tt1699748,4,13,Hell on Wheels,Further West,2014,\N,AMC,8.3,352
+tt4253524,tt1699748,5,1,Hell on Wheels,Chinatown,2015,\N,AMC,8.3,369
+tt4257268,tt1699748,5,3,Hell on Wheels,White Justice,2015,\N,AMC,8.2,298
+tt4257270,tt1699748,5,2,Hell on Wheels,Mei Mei,2015,\N,AMC,8.6,381
+tt4257272,tt1699748,5,4,Hell on Wheels,Struck,2015,\N,AMC,8.3,303
+tt4257282,tt1699748,5,5,Hell on Wheels,Elixir of Life,2015,\N,AMC,8.4,301
+tt4257284,tt1699748,5,7,Hell on Wheels,False Prophets,2015,\N,AMC,8.8,349
+tt4257286,tt1699748,5,6,Hell on Wheels,Hungry Ghosts,2015,\N,AMC,8.1,303
+tt4257288,tt1699748,5,8,Hell on Wheels,Two Soldiers,2016,\N,AMC,9.0,456
+tt4257294,tt1699748,5,9,Hell on Wheels,Return to the Garden,2016,\N,AMC,8.2,286
+tt4257296,tt1699748,5,10,Hell on Wheels,61 Degrees,2016,\N,AMC,8.3,279
+tt4257302,tt1699748,5,11,Hell on Wheels,Gambit,2016,\N,AMC,8.5,276
+tt4257304,tt1699748,5,12,Hell on Wheels,Any Sum Within Reason,2016,\N,AMC,8.7,311
+tt4257308,tt1699748,5,13,Hell on Wheels,Railroad Men,2016,\N,AMC,8.9,309
+tt4257312,tt1699748,5,14,Hell on Wheels,Done,2016,\N,AMC,9.0,374
+tt3374504,tt2543328,1,2,TURN: Washington's Spies,Who by Fire,2014,\N,AMC,8.5,505
+tt3381666,tt2543328,1,1,TURN: Washington's Spies,Pilot,2014,\N,AMC,8.5,704
+tt3413554,tt2543328,1,3,TURN: Washington's Spies,Of Cabbages and Kings,2014,\N,AMC,8.6,448
+tt3484378,tt2543328,1,4,TURN: Washington's Spies,Eternity How Long,2014,\N,AMC,8.5,417
+tt3499014,tt2543328,1,6,TURN: Washington's Spies,Mr. Culpeper,2014,\N,AMC,8.8,412
+tt3512502,tt2543328,1,5,TURN: Washington's Spies,Epiphany,2014,\N,AMC,8.6,394
+tt3561192,tt2543328,1,7,TURN: Washington's Spies,Mercy Moment Murder Measure,2014,\N,AMC,8.8,376
+tt3564596,tt2543328,1,8,TURN: Washington's Spies,Challenge,2014,\N,AMC,8.7,371
+tt3634906,tt2543328,1,9,TURN: Washington's Spies,Against Thy Neighbor,2014,\N,AMC,8.7,356
+tt3638552,tt2543328,1,10,TURN: Washington's Spies,The Battle of Setauket,2014,\N,AMC,9.2,409
+tt3825352,tt2543328,2,1,TURN: Washington's Spies,Thoughts of a Free Man,2015,\N,AMC,9.0,360
+tt4120336,tt2543328,2,2,TURN: Washington's Spies,Hard Boiled,2015,\N,AMC,9.2,336
+tt4191692,tt2543328,2,5,TURN: Washington's Spies,Sealed Fate,2015,\N,AMC,9.1,308
+tt4196132,tt2543328,2,3,TURN: Washington's Spies,False Flag,2015,\N,AMC,9.0,313
+tt4214514,tt2543328,2,6,TURN: Washington's Spies,Houses Divided,2015,\N,AMC,9.0,297
+tt4222214,tt2543328,2,4,TURN: Washington's Spies,Men of Blood,2015,\N,AMC,9.1,308
+tt4296130,tt2543328,2,8,TURN: Washington's Spies,Providence,2015,\N,AMC,9.1,311
+tt4354898,tt2543328,2,7,TURN: Washington's Spies,Valley Forge,2015,\N,AMC,9.0,323
+tt4415442,tt2543328,2,9,TURN: Washington's Spies,The Prodigal,2015,\N,AMC,9.1,295
+tt4415444,tt2543328,2,10,TURN: Washington's Spies,"Gunpowder, Treason and Plot",2015,\N,AMC,9.3,336
+tt4909774,tt2543328,3,1,TURN: Washington's Spies,Valediction,2016,\N,AMC,8.9,293
+tt5264266,tt2543328,3,5,TURN: Washington's Spies,"Hypocrisy, Fraud, and Tyranny",2016,\N,AMC,9.1,263
+tt5326034,tt2543328,3,6,TURN: Washington's Spies,Many Mickles Make a Muckle,2016,\N,AMC,9.2,279
+tt5349114,tt2543328,3,2,TURN: Washington's Spies,Cold Murdering Bastards,2016,\N,AMC,9.2,283
+tt5373912,tt2543328,3,3,TURN: Washington's Spies,Benediction,2016,\N,AMC,9.1,284
+tt5378538,tt2543328,3,8,TURN: Washington's Spies,Mended,2016,\N,AMC,9.1,258
+tt5450048,tt2543328,3,4,TURN: Washington's Spies,Hearts and Minds,2016,\N,AMC,9.0,282
+tt5459718,tt2543328,3,9,TURN: Washington's Spies,Blade on the Feather,2016,\N,AMC,9.5,295
+tt5461410,tt2543328,3,10,TURN: Washington's Spies,Trial and Execution,2016,\N,AMC,9.6,358
+tt5462314,tt2543328,3,7,TURN: Washington's Spies,Judgment,2016,\N,AMC,9.3,281
+tt5952356,tt2543328,4,10,TURN: Washington's Spies,Washington's Spies,2017,\N,AMC,9.6,328
+tt6093018,tt2543328,4,1,TURN: Washington's Spies,Spyhunter General,2017,\N,AMC,8.9,254
+tt6093020,tt2543328,4,2,TURN: Washington's Spies,The Black Hole of Calcutta,2017,\N,AMC,9.1,218
+tt6137686,tt2543328,4,3,TURN: Washington's Spies,Blood for Blood,2017,\N,AMC,9.4,245
+tt6139204,tt2543328,4,4,TURN: Washington's Spies,Nightmare,2017,\N,AMC,9.0,228
+tt6139208,tt2543328,4,5,TURN: Washington's Spies,Private Woodhull,2017,\N,AMC,9.0,215
+tt6139212,tt2543328,4,6,TURN: Washington's Spies,Our Man in New York,2017,\N,AMC,9.2,217
+tt6139218,tt2543328,4,8,TURN: Washington's Spies,Belly of the Beast,2017,\N,AMC,9.4,223
+tt6139220,tt2543328,4,9,TURN: Washington's Spies,Reckoning,2017,\N,AMC,8.5,241
+tt6139226,tt2543328,4,7,TURN: Washington's Spies,Quarry,2017,\N,AMC,9.2,217
+tt0942960,tt0826760,1,1,The Killing,Episode #1.1,2007,\N,AMC,8.1,324
+tt1729484,tt1637727,1,1,The Killing,Pilot,2011,\N,AMC,8.3,1462
+tt0942961,tt0826760,1,2,The Killing,Episode #1.2,2007,\N,AMC,7.9,252
+tt1769191,tt1637727,1,2,The Killing,The Cage,2011,\N,AMC,8.2,1075
+tt0947919,tt0826760,1,3,The Killing,Episode #1.3,2007,\N,AMC,8.0,231
+tt1793155,tt1637727,1,3,The Killing,El Diablo,2011,\N,AMC,8.1,1015
+tt0952807,tt0826760,1,4,The Killing,Episode #1.4,2007,\N,AMC,7.9,219
+tt1792692,tt1637727,1,4,The Killing,A Soundless Echo,2011,\N,AMC,8.0,910
+tt0957685,tt0826760,1,5,The Killing,Episode #1.5,2007,\N,AMC,7.9,219
+tt1792693,tt1637727,1,5,The Killing,Super 8,2011,\N,AMC,8.0,912
+tt0962033,tt0826760,1,6,The Killing,Episode #1.6,2007,\N,AMC,8.0,217
+tt1861182,tt1637727,1,6,The Killing,What You Have Left,2011,\N,AMC,8.2,903
+tt0966861,tt0826760,1,7,The Killing,Episode #1.7,2007,\N,AMC,8.0,214
+tt1861183,tt1637727,1,7,The Killing,Vengeance,2011,\N,AMC,8.1,870
+tt0972449,tt0826760,1,8,The Killing,Episode #1.8,2007,\N,AMC,8.1,211
+tt1861184,tt1637727,1,8,The Killing,Stonewalled,2011,\N,AMC,8.1,865
+tt0977380,tt0826760,1,9,The Killing,Episode #1.9,2007,\N,AMC,8.2,210
+tt1861185,tt1637727,1,9,The Killing,Undertow,2011,\N,AMC,8.4,865
+tt0983050,tt0826760,1,10,The Killing,Episode #1.10,2007,\N,AMC,8.2,207
+tt1861186,tt1637727,1,10,The Killing,I'll Let You Know When I Get There,2011,\N,AMC,8.3,865
+tt1111169,tt0826760,1,11,The Killing,Episode #1.11,2007,\N,AMC,8.2,198
+tt1861179,tt1637727,1,11,The Killing,Missing,2011,\N,AMC,7.8,1009
+tt1115159,tt0826760,1,12,The Killing,Episode #1.12,2007,\N,AMC,8.1,200
+tt1861180,tt1637727,1,12,The Killing,Beau Soleil,2011,\N,AMC,8.8,961
+tt1120143,tt0826760,1,13,The Killing,Episode #1.13,2007,\N,AMC,8.2,195
+tt1861181,tt1637727,1,13,The Killing,Orpheus Descending,2011,\N,AMC,8.5,1057
+tt1125526,tt0826760,1,14,The Killing,Episode #1.14,2007,\N,AMC,8.2,191
+tt1128665,tt0826760,1,15,The Killing,Episode #1.15,2007,\N,AMC,8.4,190
+tt1132869,tt0826760,1,16,The Killing,Episode #1.16,2007,\N,AMC,8.2,188
+tt1136237,tt0826760,1,17,The Killing,Episode #1.17,2007,\N,AMC,8.2,188
+tt1140196,tt0826760,1,18,The Killing,Episode #1.18,2007,\N,AMC,8.5,200
+tt1143375,tt0826760,1,19,The Killing,Episode #1.19,2007,\N,AMC,8.5,200
+tt1146367,tt0826760,1,20,The Killing,Episode #1.20,2007,\N,AMC,8.5,226
+tt1517895,tt0826760,2,1,The Killing,Episode #2.1,2009,\N,AMC,7.7,194
+tt1964127,tt1637727,2,1,The Killing,Reflections,2012,\N,AMC,8.3,829
+tt1521976,tt0826760,2,2,The Killing,Episode #2.2,2009,\N,AMC,7.7,172
+tt1964132,tt1637727,2,2,The Killing,My Lucky Day,2012,\N,AMC,8.2,779
+tt1526389,tt0826760,2,3,The Killing,Episode #2.3,2009,\N,AMC,7.8,164
+tt1964133,tt1637727,2,3,The Killing,Numb,2012,\N,AMC,7.8,732
+tt1530719,tt0826760,2,4,The Killing,Episode #2.4,2009,\N,AMC,8.0,159
+tt1964134,tt1637727,2,4,The Killing,Ogi Jun,2012,\N,AMC,8.1,626
+tt1534634,tt0826760,2,5,The Killing,Episode #2.5,2009,\N,AMC,7.8,160
+tt1964135,tt1637727,2,5,The Killing,Ghosts of the Past,2012,\N,AMC,8.1,700
+tt1538682,tt0826760,2,6,The Killing,Episode #2.6,2009,\N,AMC,8.0,162
+tt1964136,tt1637727,2,6,The Killing,Openings,2012,\N,AMC,7.9,691
+tt1543382,tt0826760,2,7,The Killing,Episode #2.7,2009,\N,AMC,8.0,156
+tt1964137,tt1637727,2,7,The Killing,Keylela,2012,\N,AMC,8.3,705
+tt1547745,tt0826760,2,8,The Killing,Episode #2.8,2009,\N,AMC,8.0,156
+tt1964138,tt1637727,2,8,The Killing,Off the Reservation,2012,\N,AMC,8.3,712
+tt1552809,tt0826760,2,9,The Killing,Episode #2.9,2009,\N,AMC,8.1,154
+tt1964139,tt1637727,2,9,The Killing,"Sayonara, Hiawatha",2012,\N,AMC,8.5,712
+tt1557253,tt0826760,2,10,The Killing,Episode #2.10,2009,\N,AMC,8.2,168
+tt1964128,tt1637727,2,10,The Killing,72 Hours,2012,\N,AMC,8.2,727
+tt2025956,tt0826760,3,1,The Killing,Episode #3.1,2012,\N,AMC,8.0,196
+tt2583900,tt1637727,3,1,The Killing,The Jungle,2013,\N,AMC,8.3,913
+tt2406982,tt0826760,3,3,The Killing,Episode #3.3,2012,\N,AMC,8.0,157
+tt2640668,tt1637727,3,3,The Killing,Seventeen,2013,\N,AMC,8.4,704
+tt2414390,tt0826760,3,2,The Killing,Episode #3.2,2012,\N,AMC,8.0,164
+tt2640652,tt1637727,3,2,The Killing,That You Fear the Most,2013,\N,AMC,8.5,808
+tt2444916,tt0826760,3,4,The Killing,Episode #3.4,2012,\N,AMC,8.0,149
+tt2640672,tt1637727,3,4,The Killing,Head Shots,2013,\N,AMC,8.2,673
+tt2448720,tt0826760,3,8,The Killing,Episode #3.8,2012,\N,AMC,8.3,133
+tt2722622,tt1637727,3,8,The Killing,Try,2013,\N,AMC,8.7,696
+tt2448722,tt0826760,3,5,The Killing,Episode #3.5,2012,\N,AMC,8.1,145
+tt2722616,tt1637727,3,5,The Killing,Scared and Running,2013,\N,AMC,8.4,658
+tt2448726,tt0826760,3,6,The Killing,Episode #3.6,2012,\N,AMC,8.1,148
+tt2722618,tt1637727,3,6,The Killing,Eminent Domain,2013,\N,AMC,8.2,656
+tt2448728,tt0826760,3,7,The Killing,Episode #3.7,2012,\N,AMC,8.2,139
+tt2722620,tt1637727,3,7,The Killing,Hope Kills,2013,\N,AMC,8.3,654
+tt2448730,tt0826760,3,10,The Killing,Episode #3.10,2012,\N,AMC,8.7,190
+tt2737340,tt1637727,3,10,The Killing,Six Minutes,2013,\N,AMC,9.3,1189
+tt2448732,tt0826760,3,9,The Killing,Episode #3.9,2012,\N,AMC,8.4,129
+tt2737334,tt1637727,3,9,The Killing,Reckoning,2013,\N,AMC,8.9,805
+tt1964129,tt1637727,2,11,The Killing,Bulldog,2012,\N,AMC,8.6,732
+tt1964130,tt1637727,2,12,The Killing,Donnie or Marie,2012,\N,AMC,8.8,764
+tt1964131,tt1637727,2,13,The Killing,What I Know,2012,\N,AMC,9.2,1326
+tt2737342,tt1637727,3,11,The Killing,From Up Here,2013,\N,AMC,8.8,691
+tt2737344,tt1637727,3,12,The Killing,The Road to Hamelin,2013,\N,AMC,8.9,903
+tt3355104,tt1637727,4,1,The Killing,Blood in the Water,2014,\N,AMC,8.6,850
+tt3458804,tt1637727,4,2,The Killing,Unraveling,2014,\N,AMC,8.6,752
+tt3458806,tt1637727,4,3,The Killing,The Good Soldier,2014,\N,AMC,8.7,701
+tt3458808,tt1637727,4,4,The Killing,Dream Baby Dream,2014,\N,AMC,8.9,716
+tt3458810,tt1637727,4,5,The Killing,Truth Asunder,2014,\N,AMC,8.7,716
+tt3458812,tt1637727,4,6,The Killing,Eden,2014,\N,AMC,9.2,1299
+tt3168442,tt2543312,1,1,Halt and Catch Fire,I/O,2014,\N,AMC,8.1,914
+tt3370408,tt2543312,1,2,Halt and Catch Fire,FUD,2014,\N,AMC,8.1,694
+tt3438496,tt2543312,1,3,Halt and Catch Fire,High Plains Hardware,2014,\N,AMC,7.7,611
+tt3464414,tt2543312,1,4,Halt and Catch Fire,Close to the Metal,2014,\N,AMC,8.3,583
+tt3499556,tt2543312,1,5,Halt and Catch Fire,Adventure,2014,\N,AMC,8.3,567
+tt3517700,tt2543312,1,6,Halt and Catch Fire,Landfall,2014,\N,AMC,8.2,541
+tt3549020,tt2543312,1,7,Halt and Catch Fire,Giant,2014,\N,AMC,7.9,533
+tt3566354,tt2543312,1,8,Halt and Catch Fire,The 214s,2014,\N,AMC,8.8,600
+tt3566360,tt2543312,1,9,Halt and Catch Fire,Up Helly Aa,2014,\N,AMC,9.0,618
+tt3566368,tt2543312,1,10,Halt and Catch Fire,1984,2014,\N,AMC,8.2,552
+tt3972584,tt2543312,2,1,Halt and Catch Fire,SETI,2015,\N,AMC,8.1,479
+tt4364332,tt2543312,2,2,Halt and Catch Fire,New Coke,2015,\N,AMC,8.0,419
+tt4364336,tt2543312,2,3,Halt and Catch Fire,The Way In,2015,\N,AMC,8.2,430
+tt4422412,tt2543312,2,4,Halt and Catch Fire,Play with Friends,2015,\N,AMC,8.3,403
+tt4436098,tt2543312,2,10,Halt and Catch Fire,Heaven Is a Place,2015,\N,AMC,8.7,447
+tt4437720,tt2543312,2,5,Halt and Catch Fire,Extract and Defend,2015,\N,AMC,8.2,404
+tt4508160,tt2543312,2,6,Halt and Catch Fire,10Broad36,2015,\N,AMC,8.3,415
+tt4537868,tt2543312,2,7,Halt and Catch Fire,Working for the Clampdown,2015,\N,AMC,8.4,400
+tt4568616,tt2543312,2,8,Halt and Catch Fire,Limbo,2015,\N,AMC,8.5,400
+tt4569076,tt2543312,2,9,Halt and Catch Fire,Kali,2015,\N,AMC,8.5,404
+tt5098994,tt2543312,3,1,Halt and Catch Fire,Valley of the Heart's Delight,2016,\N,AMC,8.0,345
+tt5539282,tt2543312,3,2,Halt and Catch Fire,One Way or Another,2016,\N,AMC,8.2,320
+tt5539292,tt2543312,3,3,Halt and Catch Fire,Flipping the Switch,2016,\N,AMC,8.1,305
+tt5539294,tt2543312,3,4,Halt and Catch Fire,Rules of Honorable Play,2016,\N,AMC,7.8,298
+tt5640498,tt2543312,3,5,Halt and Catch Fire,Yerba Buena,2016,\N,AMC,8.0,301
+tt5640508,tt2543312,3,6,Halt and Catch Fire,And She Was,2016,\N,AMC,8.4,311
+tt5640738,tt2543312,3,7,Halt and Catch Fire,The Threshold,2016,\N,AMC,8.9,379
+tt5707496,tt2543312,3,8,Halt and Catch Fire,You Are Not Safe,2016,\N,AMC,8.9,399
+tt5707510,tt2543312,3,9,Halt and Catch Fire,NIM,2016,\N,AMC,8.6,350
+tt5707526,tt2543312,3,10,Halt and Catch Fire,NeXT,2016,\N,AMC,8.8,351
+tt6141394,tt2543312,4,1,Halt and Catch Fire,So It Goes,2017,\N,AMC,8.1,352
+tt6141504,tt2543312,4,10,Halt and Catch Fire,Ten of Swords,2017,\N,AMC,9.0,442
+tt6143702,tt2543312,4,2,Halt and Catch Fire,Signal to Noise,2017,\N,AMC,8.4,344
+tt6143704,tt2543312,4,3,Halt and Catch Fire,Miscellaneous,2017,\N,AMC,8.3,300
+tt6143708,tt2543312,4,4,Halt and Catch Fire,Tonya and Nancy,2017,\N,AMC,8.0,270
+tt6143716,tt2543312,4,5,Halt and Catch Fire,Nowhere Man,2017,\N,AMC,8.2,275
+tt6145872,tt2543312,4,6,Halt and Catch Fire,A Connection Is Made,2017,\N,AMC,8.3,285
+tt6145880,tt2543312,4,7,Halt and Catch Fire,Who Needs a Guy,2017,\N,AMC,9.5,661
+tt6145886,tt2543312,4,8,Halt and Catch Fire,Goodwill,2017,\N,AMC,9.0,486
+tt6145888,tt2543312,4,9,Halt and Catch Fire,Search,2017,\N,AMC,8.5,302
+tt1316546,tt5016504,1,1,Preacher,Pilot,2016,\N,AMC,8.4,3889
+tt5236114,tt5016504,1,2,Preacher,See,2016,\N,AMC,8.3,2468
+tt5236116,tt5016504,1,3,Preacher,The Possibilities,2016,\N,AMC,8.0,2008
+tt5236118,tt5016504,1,4,Preacher,Monster Swamp,2016,\N,AMC,7.8,1862
+tt5236124,tt5016504,1,5,Preacher,South Will Rise Again,2016,\N,AMC,8.2,1751
+tt5236130,tt5016504,1,6,Preacher,Sundowner,2016,\N,AMC,9.0,2191
+tt5236134,tt5016504,1,7,Preacher,He Gone,2016,\N,AMC,8.2,1593
+tt5236136,tt5016504,1,8,Preacher,El Valero,2016,\N,AMC,7.9,1542
+tt5236140,tt5016504,1,9,Preacher,Finish the Song,2016,\N,AMC,8.5,1663
+tt5236142,tt5016504,1,10,Preacher,Call and Response,2016,\N,AMC,8.7,1956
+tt5846038,tt5016504,2,1,Preacher,On the Road,2017,\N,AMC,8.9,1557
+tt5853500,tt5016504,2,13,Preacher,The End of the Road,2017,\N,AMC,8.2,861
+tt5879524,tt5016504,2,2,Preacher,Mumbai Sky Tower,2017,\N,AMC,8.5,1254
+tt5886328,tt5016504,2,3,Preacher,Damsels,2017,\N,AMC,8.0,1096
+tt5898108,tt5016504,2,4,Preacher,Viktor,2017,\N,AMC,8.1,1036
+tt5898116,tt5016504,2,5,Preacher,Dallas,2017,\N,AMC,7.6,997
+tt5929254,tt5016504,2,6,Preacher,Sokosha,2017,\N,AMC,8.7,1114
+tt5936958,tt5016504,2,7,Preacher,Pig,2017,\N,AMC,8.1,969
+tt5943660,tt5016504,2,10,Preacher,Dirty Little Secret,2017,\N,AMC,7.7,912
+tt5943662,tt5016504,2,11,Preacher,Backdoors,2017,\N,AMC,7.5,787
+tt5995762,tt5016504,2,8,Preacher,Holes,2017,\N,AMC,7.4,895
+tt5995766,tt5016504,2,9,Preacher,Puzzle Piece,2017,\N,AMC,7.9,863
+tt5995768,tt5016504,2,12,Preacher,On Your Knees,2017,\N,AMC,7.5,786
+tt7558826,tt5016504,3,1,Preacher,Angelville,2018,\N,AMC,8.2,687
+tt7945860,tt5016504,3,2,Preacher,Sonsabitches,2018,\N,AMC,8.1,583
+tt8023446,tt5016504,3,3,Preacher,Gonna Hurt,2018,\N,AMC,8.1,561
+tt8023450,tt5016504,3,4,Preacher,The Tombs,2018,\N,AMC,8.6,575
+tt8023456,tt5016504,3,5,Preacher,The Coffin,2018,\N,AMC,8.3,555
+tt8023460,tt5016504,3,6,Preacher,Les Enfants du Sang,2018,\N,AMC,8.4,529
+tt8023462,tt5016504,3,7,Preacher,Hilter,2018,\N,AMC,8.4,531
+tt8023468,tt5016504,3,8,Preacher,The Tom/Brady,2018,\N,AMC,8.7,541
+tt8023470,tt5016504,3,9,Preacher,Schwanzkopf,2018,\N,AMC,9.0,594
+tt8023472,tt5016504,3,10,Preacher,The Light Above,2018,\N,AMC,9.1,647
+tt1674557,tt1389371,1,1,Rubicon,Gone in the Teeth,2010,\N,AMC,7.8,241
+tt1677391,tt1389371,1,2,Rubicon,The First Day of School,2010,\N,AMC,7.8,195
+tt1677392,tt1389371,1,3,Rubicon,Keep the Ends Out,2010,\N,AMC,7.7,168
+tt1677393,tt1389371,1,4,Rubicon,The Outsider,2010,\N,AMC,7.8,157
+tt1679788,tt1389371,1,10,Rubicon,In Whom We Trust,2010,\N,AMC,8.1,130
+tt1679789,tt1389371,1,11,Rubicon,A Good Day's Work,2010,\N,AMC,8.8,139
+tt1679790,tt1389371,1,5,Rubicon,Connect the Dots,2010,\N,AMC,8.2,147
+tt1679791,tt1389371,1,9,Rubicon,No Honesty in Men,2010,\N,AMC,8.3,131
+tt1680246,tt1389371,1,6,Rubicon,Look to the Ant,2010,\N,AMC,8.2,132
+tt1680247,tt1389371,1,7,Rubicon,The Truth Will Out,2010,\N,AMC,8.4,132
+tt1680248,tt1389371,1,8,Rubicon,Caught in the Suck,2010,\N,AMC,8.2,125
+tt1693505,tt1389371,1,12,Rubicon,Wayward Sons,2010,\N,AMC,8.8,134
+tt1733635,tt1389371,1,13,Rubicon,You Never Can Win,2010,\N,AMC,8.5,136
